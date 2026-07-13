@@ -637,7 +637,7 @@
 <title>Gente Regia</title>
 </programme>
 <channel id="a_e_chile">
-<display-name>A&E Chile</display-name>
+<display-name>A&amp;E Chile</display-name>
 </channel>
 <programme start="20260713080000 -0600" stop="20260713082000 -0600" channel="a_e_chile">
 <title>Live PD, patrulla policial</title>
@@ -649,7 +649,7 @@
 <title>Asesinato en el motel</title>
 </programme>
 <channel id="a_e_m_xico">
-<display-name>A&E México</display-name>
+<display-name>A&amp;E México</display-name>
 </channel>
 <programme start="20260713080000 -0600" stop="20260713082500 -0600" channel="a_e_m_xico">
 <title>¿Quién da má$? Temporada 10 Episodio 227</title>
@@ -670,7 +670,7 @@
 <title>Ira en el camino Temporada 1 Episodio 2</title>
 </programme>
 <channel id="a_e_pan">
-<display-name>A&E PAN</display-name>
+<display-name>A&amp;E PAN</display-name>
 </channel>
 <programme start="20260713080000 -0600" stop="20260713082000 -0600" channel="a_e_pan">
 <title>Patrulla policial</title>
@@ -769,7 +769,7 @@
 <title>El Campo Caquetá</title>
 </programme>
 <programme start="20260713090000 -0600" stop="20260713093000 -0600" channel="agrotendencia_tv">
-<title>America's Heartland</title>
+<title>America&apos;s Heartland</title>
 </programme>
 <programme start="20260713093000 -0600" stop="20260713100000 -0600" channel="agrotendencia_tv">
 <title>Agronoticias Sie7e</title>
@@ -982,7 +982,7 @@
 <title>Noche y día</title>
 </programme>
 <programme start="20260713080700 -0600" stop="20260713094700 -0600" channel="axn_es">
-<title>Fast & Furious: Aún más rápido</title>
+<title>Fast &amp; Furious: Aún más rápido</title>
 </programme>
 <programme start="20260713094700 -0600" stop="20260713100000 -0600" channel="axn_es">
 <title>Mentes Criminales Temporada 13 Creyente</title>
@@ -1054,7 +1054,7 @@
 <title>Explorando con el mundo es una maravilla</title>
 </programme>
 <programme start="20260713083000 -0600" stop="20260713090000 -0600" channel="babyfirst_tv">
-<title>Canciones & Rimas y otras historias</title>
+<title>Canciones &amp; Rimas y otras historias</title>
 </programme>
 <programme start="20260713090000 -0600" stop="20260713093000 -0600" channel="babyfirst_tv">
 <title>La pequeña Lola visita la ciudad</title>
@@ -1081,7 +1081,7 @@
 <title>Esport base</title>
 </programme>
 <programme start="20260713084500 -0600" stop="20260713090000 -0600" channel="bar_a_tv">
-<title>600"</title>
+<title>600&quot;</title>
 </programme>
 <programme start="20260713090000 -0600" stop="20260713091500 -0600" channel="bar_a_tv">
 <title>Barça Notícies</title>
@@ -1189,7 +1189,7 @@
 <display-name>Caracol Colombia</display-name>
 </channel>
 <programme start="20260713080000 -0600" stop="20260713093000 -0600" channel="caracol_colombia">
-<title>Mr. Magorium's Wonder Emporium</title>
+<title>Mr. Magorium&apos;s Wonder Emporium</title>
 </programme>
 <programme start="20260713093000 -0600" stop="20260713100000 -0600" channel="caracol_colombia">
 <title>Alvin and the Chipmunks The Squeakquel</title>
@@ -1813,7 +1813,7 @@
 <title>The 77 Percent</title>
 </programme>
 <programme start="20260713081500 -0600" stop="20260713090000 -0600" channel="dw">
-<title>America's Journey to Freedom</title>
+<title>America&apos;s Journey to Freedom</title>
 </programme>
 <programme start="20260713090000 -0600" stop="20260713093000 -0600" channel="dw">
 <title>DW News</title>
@@ -1903,10 +1903,10 @@
 <title>Los cazahogares en familia Una vida activa en Nebraska</title>
 </programme>
 <channel id="discovery_home_health_colombia">
-<display-name>Discovery Home & Health Colombia</display-name>
+<display-name>Discovery Home &amp; Health Colombia</display-name>
 </channel>
 <programme start="20260713080000 -0600" stop="20260713083500 -0600" channel="discovery_home_health_colombia">
-<title>Historia Clinica Daniela 'Tuti' Vargas</title>
+<title>Historia Clinica Daniela &apos;Tuti&apos; Vargas</title>
 </programme>
 <programme start="20260713083500 -0600" stop="20260713092200 -0600" channel="discovery_home_health_colombia">
 <title>Especialistas en tumores El hombre con un tumor colgante en la cara</title>
@@ -1915,7 +1915,7 @@
 <title>Especialistas en tumores El hombre con un tumor parlante en el cuello</title>
 </programme>
 <channel id="discovery_h_h_mx">
-<display-name>Discovery H&H MX</display-name>
+<display-name>Discovery H&amp;H MX</display-name>
 </channel>
 <programme start="20260713080000 -0600" stop="20260713080300 -0600" channel="discovery_h_h_mx">
 <title>Hasta que el diseño nos separe Episodio 6</title>
@@ -1948,7 +1948,7 @@
 <title>Underdogs United</title>
 </programme>
 <programme start="20260713085500 -0600" stop="20260713090600 -0600" channel="discovery_kids_chile">
-<title>Lupi & Baduki</title>
+<title>Lupi &amp; Baduki</title>
 </programme>
 <programme start="20260713090600 -0600" stop="20260713093100 -0600" channel="discovery_kids_chile">
 <title>Mini beat power rockers</title>
@@ -1978,7 +1978,7 @@
 <title>Underdogs United Sportsville sin puntos</title>
 </programme>
 <programme start="20260713085500 -0600" stop="20260713090600 -0600" channel="discovery_kids_latam">
-<title>Lupi & Baduki La reina de la higuera</title>
+<title>Lupi &amp; Baduki La reina de la higuera</title>
 </programme>
 <programme start="20260713090600 -0600" stop="20260713093100 -0600" channel="discovery_kids_latam">
 <title>Mini beat power rockers El poder de Myo / Percusión dental / Bring it on! / En sus marcas... listos... ¡fuera! / La h</title>
@@ -2125,7 +2125,7 @@
 <title>Marvel conoce a Spidey y su superequipo</title>
 </programme>
 <programme start="20260713094000 -0600" stop="20260713100000 -0600" channel="disney_junior_espa_a">
-<title>Marvel's Iron Man and His Awesome Friends</title>
+<title>Marvel&apos;s Iron Man and His Awesome Friends</title>
 </programme>
 <channel id="disney_junior_norte">
 <display-name>Disney Junior Norte</display-name>
@@ -2632,7 +2632,7 @@
 <title>Imagen Informativa En Vivo</title>
 </programme>
 <channel id="film_arts">
-<display-name>Film & Arts</display-name>
+<display-name>Film &amp; Arts</display-name>
 </channel>
 <programme start="20260713080000 -0600" stop="20260713093500 -0600" channel="film_arts">
 <title>Mr. Pip</title>
@@ -2692,7 +2692,7 @@
 <display-name>Fox News</display-name>
 </channel>
 <programme start="20260713080000 -0600" stop="20260713090000 -0600" channel="fox_news">
-<title>America's Newsroom</title>
+<title>America&apos;s Newsroom</title>
 </programme>
 <programme start="20260713090000 -0600" stop="20260713100000 -0600" channel="fox_news">
 <title>The Faulkner Focus</title>
@@ -3292,7 +3292,7 @@
 <title>Cadena de amor</title>
 </programme>
 <programme start="20260713090000 -0600" stop="20260713100000 -0600" channel="mar_a_visi_n">
-<title>Santo rosario 'De las rosas'</title>
+<title>Santo rosario &apos;De las rosas&apos;</title>
 </programme>
 <channel id="max_anime_latam">
 <display-name>Max Anime LATAM</display-name>
@@ -3400,13 +3400,13 @@
 <title>Vergüenza Ajena Temporada 40 Sterling y Rocsi Díaz XXX</title>
 </programme>
 <programme start="20260713082500 -0600" stop="20260713090600 -0600" channel="mtv_espa_a">
-<title>Catfish: mentiras en la Red Temporada 8 Ryan & Micah</title>
+<title>Catfish: mentiras en la Red Temporada 8 Ryan &amp; Micah</title>
 </programme>
 <programme start="20260713090600 -0600" stop="20260713095000 -0600" channel="mtv_espa_a">
-<title>Catfish: mentiras en la Red Temporada 7 Breana & Josh</title>
+<title>Catfish: mentiras en la Red Temporada 7 Breana &amp; Josh</title>
 </programme>
 <programme start="20260713095000 -0600" stop="20260713100000 -0600" channel="mtv_espa_a">
-<title>Catfish: mentiras en la Red Temporada 6 Dylan & Ally</title>
+<title>Catfish: mentiras en la Red Temporada 6 Dylan &amp; Ally</title>
 </programme>
 <channel id="mtv_sur">
 <display-name>MTV Sur</display-name>
@@ -3508,7 +3508,7 @@
 <title>News commentary</title>
 </programme>
 <programme start="20260713084000 -0600" stop="20260713084500 -0600" channel="nhk_world">
-<title>News & Weather</title>
+<title>News &amp; Weather</title>
 </programme>
 <programme start="20260713084500 -0600" stop="20260713092900 -0600" channel="nhk_world">
 <title>International News Report 2026</title>
@@ -3526,7 +3526,7 @@
 <title>Cooking for beginners</title>
 </programme>
 <programme start="20260713094500 -0600" stop="20260713100000 -0600" channel="nhk_world">
-<title>Child-Rearing Hints & Tips</title>
+<title>Child-Rearing Hints &amp; Tips</title>
 </programme>
 <channel id="nick_jr_espa_a">
 <display-name>Nick Jr. España</display-name>
@@ -3739,7 +3739,7 @@
 <display-name>Paraguay TV</display-name>
 </channel>
 <programme start="20260713080000 -0600" stop="20260713090000 -0600" channel="paraguay_tv">
-<title>Marandu Ko'e</title>
+<title>Marandu Ko&apos;e</title>
 </programme>
 <programme start="20260713090000 -0600" stop="20260713100000 -0600" channel="paraguay_tv">
 <title>Ovación Deportiva</title>
@@ -3910,10 +3910,10 @@
 <title>louie</title>
 </programme>
 <programme start="20260713093300 -0600" stop="20260713094500 -0600" channel="semillitas">
-<title>Dumper & Skoop</title>
+<title>Dumper &amp; Skoop</title>
 </programme>
 <programme start="20260713094500 -0600" stop="20260713095800 -0600" channel="semillitas">
-<title>Franklin & Friend</title>
+<title>Franklin &amp; Friend</title>
 </programme>
 <programme start="20260713095800 -0600" stop="20260713100000 -0600" channel="semillitas">
 <title>Chuggington</title>
@@ -3997,10 +3997,10 @@
 <display-name>Sony Centro</display-name>
 </channel>
 <programme start="20260713080000 -0600" stop="20260713090000 -0600" channel="sony_centro">
-<title>Betty's call Eiskalt erwischt</title>
+<title>Betty&apos;s call Eiskalt erwischt</title>
 </programme>
 <programme start="20260713090000 -0600" stop="20260713093500 -0600" channel="sony_centro">
-<title>The Nanny An Offer She Can't Refuse</title>
+<title>The Nanny An Offer She Can&apos;t Refuse</title>
 </programme>
 <programme start="20260713093500 -0600" stop="20260713100000 -0600" channel="sony_centro">
 <title>The Nanny Fashion Show</title>
@@ -4543,13 +4543,13 @@
 <display-name>TNT Series Lat.</display-name>
 </channel>
 <programme start="20260713080000 -0600" stop="20260713084100 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 7 Episodio 8</title>
+<title>Law &amp; Order: SVU Temporada 7 Episodio 8</title>
 </programme>
 <programme start="20260713084100 -0600" stop="20260713092900 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 6 Episodio 4</title>
+<title>Law &amp; Order: SVU Temporada 6 Episodio 4</title>
 </programme>
 <programme start="20260713092900 -0600" stop="20260713100000 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 6 Episodio 5</title>
+<title>Law &amp; Order: SVU Temporada 6 Episodio 5</title>
 </programme>
 <channel id="tooncast">
 <display-name>Tooncast</display-name>
@@ -4687,13 +4687,13 @@
 <title>La belle vie</title>
 </programme>
 <programme start="20260713081700 -0600" stop="20260713084400 -0600" channel="tv5monde">
-<title>Chroniques d'en haut</title>
+<title>Chroniques d&apos;en haut</title>
 </programme>
 <programme start="20260713084400 -0600" stop="20260713090800 -0600" channel="tv5monde">
 <title>Sérieux?</title>
 </programme>
 <programme start="20260713090800 -0600" stop="20260713093000 -0600" channel="tv5monde">
-<title>La cuisine d'Isabelle et Ricar</title>
+<title>La cuisine d&apos;Isabelle et Ricar</title>
 </programme>
 <programme start="20260713093000 -0600" stop="20260713100000 -0600" channel="tv5monde">
 <title>Tout le monde veut prendre</title>
@@ -4756,10 +4756,10 @@
 <title>Vlasik, La sombra de Stalin</title>
 </programme>
 <programme start="20260713084600 -0600" stop="20260713093300 -0600" channel="ultra_docu">
-<title>999: What's Your Emergency?</title>
+<title>999: What&apos;s Your Emergency?</title>
 </programme>
 <programme start="20260713093300 -0600" stop="20260713100000 -0600" channel="ultra_docu">
-<title>999: What's Your Emergency?</title>
+<title>999: What&apos;s Your Emergency?</title>
 </programme>
 <channel id="ultra_fiesta">
 <display-name>Ultra Fiesta</display-name>
@@ -4786,7 +4786,7 @@
 <display-name>Ultra Kidz</display-name>
 </channel>
 <programme start="20260713080000 -0600" stop="20260713082300 -0600" channel="ultra_kidz">
-<title>Super Supremes: Nursery Rhymes & Baby Songs</title>
+<title>Super Supremes: Nursery Rhymes &amp; Baby Songs</title>
 </programme>
 <programme start="20260713082300 -0600" stop="20260713084400 -0600" channel="ultra_kidz">
 <title>Smarty-Pants Eric</title>
@@ -5287,7 +5287,7 @@
 <title>Hoy Celebremos En Vivo</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713110000 -0600" channel="2_de_nicaragua">
-<title>Luces, cámara & sazón desde tu cocina</title>
+<title>Luces, cámara &amp; sazón desde tu cocina</title>
 </programme>
 <programme start="20260713110000 -0600" stop="20260713120000 -0600" channel="2_de_nicaragua">
 <title>Top Model</title>
@@ -5476,7 +5476,7 @@
 <title>Fairly Odd Parents</title>
 </programme>
 <programme start="20260713113000 -0600" stop="20260713120000 -0600" channel="11_de_guatemala">
-<title>Disney's Quack Pack</title>
+<title>Disney&apos;s Quack Pack</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713113000 -0600" channel="11_de_m_xico">
 <title>Diálogos En Confianza</title>
@@ -6004,7 +6004,7 @@
 <title>Explorando con BabyHood</title>
 </programme>
 <programme start="20260713113000 -0600" stop="20260713120000 -0600" channel="baby_tv_latam">
-<title>Canciones & Rimas y otras historias</title>
+<title>Canciones &amp; Rimas y otras historias</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713103000 -0600" channel="babyfirst_tv">
 <title>Los primeros descubrimientos mágicos</title>
@@ -6016,7 +6016,7 @@
 <title>Explorando con el mundo es una maravilla</title>
 </programme>
 <programme start="20260713113000 -0600" stop="20260713120000 -0600" channel="babyfirst_tv">
-<title>Charlie & las figuras y otras historias</title>
+<title>Charlie &amp; las figuras y otras historias</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713101500 -0600" channel="bandamax">
 <title>Ídolos</title>
@@ -6154,7 +6154,7 @@
 <title>El mundo de Craig Craig of the Street</title>
 </programme>
 <programme start="20260713113000 -0600" stop="20260713114500 -0600" channel="cartoon_network_atl_ntico_norte">
-<title>Summer Memories That Ain't The Way I See It</title>
+<title>Summer Memories That Ain&apos;t The Way I See It</title>
 </programme>
 <programme start="20260713114500 -0600" stop="20260713120000 -0600" channel="cartoon_network_atl_ntico_norte">
 <title>Summer Memories Soccer Is Life</title>
@@ -6268,7 +6268,7 @@
 <title>Bugs y sus amigos a la obra Hare Ball</title>
 </programme>
 <programme start="20260713111100 -0600" stop="20260713112200 -0600" channel="cartoonito_panregional">
-<title>Bugs y sus amigos a la obra Sam's Stylin' Salon</title>
+<title>Bugs y sus amigos a la obra Sam&apos;s Stylin&apos; Salon</title>
 </programme>
 <programme start="20260713112200 -0600" stop="20260713112500 -0600" channel="cartoonito_panregional">
 <title>Bugs Bunny y sus amigos a la obra Hora de trabajar Boogie Button</title>
@@ -6277,7 +6277,7 @@
 <title>Batwheels License to Joke</title>
 </programme>
 <programme start="20260713113600 -0600" stop="20260713114700 -0600" channel="cartoonito_panregional">
-<title>Batwheels Bibi's Bad Day</title>
+<title>Batwheels Bibi&apos;s Bad Day</title>
 </programme>
 <programme start="20260713114700 -0600" stop="20260713115800 -0600" channel="cartoonito_panregional">
 <title>Batwheels Batty Race</title>
@@ -6388,10 +6388,10 @@
 <title>Un Día Muy Especial</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713110000 -0600" channel="cineclick">
-<title>Law & Order</title>
+<title>Law &amp; Order</title>
 </programme>
 <programme start="20260713110000 -0600" stop="20260713120000 -0600" channel="cineclick">
-<title>Law & Order</title>
+<title>Law &amp; Order</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713114000 -0600" channel="cinelatino">
 <title>La vida de los Reyes</title>
@@ -6772,7 +6772,7 @@
 <title>Misfit Garage Temporada 6 Un incendio menor</title>
 </programme>
 <programme start="20260713100800 -0600" stop="20260713110200 -0600" channel="discovery_turbo_latam">
-<title>Overhaulin' Temporada 9 1978 Trans Am</title>
+<title>Overhaulin&apos; Temporada 9 1978 Trans Am</title>
 </programme>
 <programme start="20260713110200 -0600" stop="20260713115600 -0600" channel="discovery_turbo_latam">
 <title>American Hot Rod</title>
@@ -6808,7 +6808,7 @@
 <title>Es tan Raven Juicer Consequences</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713103000 -0600" channel="disney_channel_m_xico">
-<title>Hamster & Gretel Temporada 1 Episodio 1</title>
+<title>Hamster &amp; Gretel Temporada 1 Episodio 1</title>
 </programme>
 <programme start="20260713103000 -0600" stop="20260713110000 -0600" channel="disney_channel_m_xico">
 <title>El fantasma y Molly McGee Temporada 1</title>
@@ -6835,7 +6835,7 @@
 <title>Los Hechiceros Más Allá De Waverly Place</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713100500 -0600" channel="disney_junior_espa_a">
-<title>Marvel's Iron Man and His Awesome Friends</title>
+<title>Marvel&apos;s Iron Man and His Awesome Friends</title>
 </programme>
 <programme start="20260713100500 -0600" stop="20260713103000 -0600" channel="disney_junior_espa_a">
 <title>Los Green en la gran ciudad Temporada 1</title>
@@ -7408,7 +7408,7 @@
 <title>La Casa del Dragón</title>
 </programme>
 <programme start="20260713115000 -0600" stop="20260713120000 -0600" channel="hbo_latino_este">
-<title>Ocean's Eight</title>
+<title>Ocean&apos;s Eight</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713111000 -0600" channel="hbo_mundi">
 <title>El Infiltrado del KKKlan</title>
@@ -7525,7 +7525,7 @@
 <title>Forensic Files A Welcome Intrusion</title>
 </programme>
 <programme start="20260713113000 -0600" stop="20260713120000 -0600" channel="hln">
-<title>Forensic Files Within Arm's Reach</title>
+<title>Forensic Files Within Arm&apos;s Reach</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713104400 -0600" channel="hollywood_espa_a">
 <title>La Momia</title>
@@ -7741,13 +7741,13 @@
 <title>Atrapados en el acto infieles T3-E22 Ella es una corredora, una estrella de la pista</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713103100 -0600" channel="mtv_espa_a">
-<title>Catfish: mentiras en la Red Temporada 6 Dylan & Ally</title>
+<title>Catfish: mentiras en la Red Temporada 6 Dylan &amp; Ally</title>
 </programme>
 <programme start="20260713103100 -0600" stop="20260713111400 -0600" channel="mtv_espa_a">
-<title>Catfish: mentiras en la Red Temporada 8 Gemini & Myranda</title>
+<title>Catfish: mentiras en la Red Temporada 8 Gemini &amp; Myranda</title>
 </programme>
 <programme start="20260713111400 -0600" stop="20260713115500 -0600" channel="mtv_espa_a">
-<title>Catfish: mentiras en la Red Temporada 5 Lucas & Many</title>
+<title>Catfish: mentiras en la Red Temporada 5 Lucas &amp; Many</title>
 </programme>
 <programme start="20260713115500 -0600" stop="20260713120000 -0600" channel="mtv_espa_a">
 <title>Ink Master Temporada 7 Escuela nueva, artista viejo</title>
@@ -7813,10 +7813,10 @@
 <title>Good morning football</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713101500 -0600" channel="nhk_world">
-<title>Child-Rearing Hints & Tips</title>
+<title>Child-Rearing Hints &amp; Tips</title>
 </programme>
 <programme start="20260713101500 -0600" stop="20260713104000 -0600" channel="nhk_world">
-<title>Gretel's magical oven</title>
+<title>Gretel&apos;s magical oven</title>
 </programme>
 <programme start="20260713104000 -0600" stop="20260713111000 -0600" channel="nhk_world">
 <title>Japanese narrative art</title>
@@ -7831,7 +7831,7 @@
 <title>World weather</title>
 </programme>
 <programme start="20260713114500 -0600" stop="20260713120000 -0600" channel="nhk_world">
-<title>Kid's discovery</title>
+<title>Kid&apos;s discovery</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713102000 -0600" channel="nick_jr_espa_a">
 <title>Barbapapá: ¡Una gran familia! Temporada 2 Bbarbalalalalalalala ; El biodesastre</title>
@@ -7873,7 +7873,7 @@
 <title>Blaze y los Monster Machines T4-E20 La carrera de medianoche</title>
 </programme>
 <programme start="20260713113000 -0600" stop="20260713115000 -0600" channel="nick_jr_latinoam_rica">
-<title>Paw Patrol patrulla de cachorros T12-E2 Search & Rescue Los cachorros salvan la carrera de bicicletas</title>
+<title>Paw Patrol patrulla de cachorros T12-E2 Search &amp; Rescue Los cachorros salvan la carrera de bicicletas</title>
 </programme>
 <programme start="20260713115000 -0600" stop="20260713120000 -0600" channel="nick_jr_latinoam_rica">
 <title>Paw Patrol patrulla de cachorros T9-E19 ¡Los Aqua cachorros salvan a un Sirendinger!</title>
@@ -8107,7 +8107,7 @@
 <title>Sid, el niño científico</title>
 </programme>
 <programme start="20260713112200 -0600" stop="20260713113500 -0600" channel="semillitas">
-<title>Franklin & Friend</title>
+<title>Franklin &amp; Friend</title>
 </programme>
 <programme start="20260713113500 -0600" stop="20260713114800 -0600" channel="semillitas">
 <title>Babar y las aventuras de Badou</title>
@@ -8164,7 +8164,7 @@
 <title>The Nanny Fashion Show</title>
 </programme>
 <programme start="20260713101000 -0600" stop="20260713104500 -0600" channel="sony_centro">
-<title>The Nanny Where's Fran</title>
+<title>The Nanny Where&apos;s Fran</title>
 </programme>
 <programme start="20260713104500 -0600" stop="20260713112000 -0600" channel="sony_centro">
 <title>Vecinos Conserjerito inglés</title>
@@ -8356,7 +8356,7 @@
 <title>Copa Mundial de la FIFA 2026 ¼ Final : Argentina - Suiza</title>
 </programme>
 <programme start="20260713111500 -0600" stop="20260713114500 -0600" channel="teledeporte">
-<title>UEFA European Women's U19 Championship Highlights Final : Alemania - España</title>
+<title>UEFA European Women&apos;s U19 Championship Highlights Final : Alemania - España</title>
 </programme>
 <programme start="20260713114500 -0600" stop="20260713120000 -0600" channel="teledeporte">
 <title>UEFA European U19 Championship Football Final : Alemania - España</title>
@@ -8566,7 +8566,7 @@
 <title>Aile</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713101600 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 6 Episodio 5</title>
+<title>Law &amp; Order: SVU Temporada 6 Episodio 5</title>
 </programme>
 <programme start="20260713101600 -0600" stop="20260713110200 -0600" channel="tnt_series_lat">
 <title>CSI: Miami Temporada 9 Episodio 16</title>
@@ -8665,10 +8665,10 @@
 <title>Un si grand soleil</title>
 </programme>
 <programme start="20260713110000 -0600" stop="20260713113000 -0600" channel="tv5monde">
-<title>64' Actu</title>
+<title>64&apos; Actu</title>
 </programme>
 <programme start="20260713113000 -0600" stop="20260713120000 -0600" channel="tv5monde">
-<title>64' Débat</title>
+<title>64&apos; Débat</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713104500 -0600" channel="tvc_deportes">
 <title>Baloncesto Liga ACB</title>
@@ -8707,7 +8707,7 @@
 <title>Caïn</title>
 </programme>
 <programme start="20260713100000 -0600" stop="20260713102000 -0600" channel="ultra_docu">
-<title>999: What's Your Emergency?</title>
+<title>999: What&apos;s Your Emergency?</title>
 </programme>
 <programme start="20260713102000 -0600" stop="20260713111000 -0600" channel="ultra_docu">
 <title>Vasiliy Stalin</title>
@@ -9670,7 +9670,7 @@
 <title>The Apothecary Diaries</title>
 </programme>
 <programme start="20260713134700 -0600" stop="20260713140000 -0600" channel="adult_swim_m_xico">
-<title>Frieren Beyond Journey's End</title>
+<title>Frieren Beyond Journey&apos;s End</title>
 </programme>
 <programme start="20260713120000 -0600" stop="20260713120900 -0600" channel="adult_swim_panregional">
 <title>Blue Lock Nieve nocturna</title>
@@ -9907,7 +9907,7 @@
 <title>El patio de la imaginación</title>
 </programme>
 <programme start="20260713120000 -0600" stop="20260713123000 -0600" channel="babyfirst_tv">
-<title>Canciones & Rimas</title>
+<title>Canciones &amp; Rimas</title>
 </programme>
 <programme start="20260713123000 -0600" stop="20260713130000 -0600" channel="babyfirst_tv">
 <title>La hora del arte, la actividad y la música</title>
@@ -9922,7 +9922,7 @@
 <title>Las mas sonadas</title>
 </programme>
 <programme start="20260713130000 -0600" stop="20260713140000 -0600" channel="bandamax">
-<title>Vivo Pa'la banda</title>
+<title>Vivo Pa&apos;la banda</title>
 </programme>
 <programme start="20260713120000 -0600" stop="20260713123000 -0600" channel="bar_a_tv">
 <title>La hora B</title>
@@ -10027,7 +10027,7 @@
 <title>La reina de Indias y el conquistador</title>
 </programme>
 <programme start="20260713133000 -0600" stop="20260713140000 -0600" channel="caracol_internacional">
-<title>Mariana & Scarlett</title>
+<title>Mariana &amp; Scarlett</title>
 </programme>
 <programme start="20260713120000 -0600" stop="20260713121000 -0600" channel="cartoon_network_atl_ntico_norte">
 <title>Escandalosos El pie grande de Charlie</title>
@@ -10978,7 +10978,7 @@
 <title>ESPN Compact</title>
 </programme>
 <programme start="20260713120000 -0600" stop="20260713140000 -0600" channel="espn_2_norte">
-<title>The Championships, Wimbledon Final femenina, All England Lawn Tennis & Croquet Club, Wimbledon, England</title>
+<title>The Championships, Wimbledon Final femenina, All England Lawn Tennis &amp; Croquet Club, Wimbledon, England</title>
 </programme>
 <programme start="20260713120000 -0600" stop="20260713140000 -0600" channel="espn_2_sur">
 <title>Fútbol Argentino Torneo de Reserva Estudiantes (RC) vs. Defensa y Justicia</title>
@@ -11365,7 +11365,7 @@
 <title>Harry Potter La Cámara Secreta</title>
 </programme>
 <programme start="20260713120000 -0600" stop="20260713134200 -0600" channel="hbo_latino_este">
-<title>Ocean's Eight</title>
+<title>Ocean&apos;s Eight</title>
 </programme>
 <programme start="20260713134200 -0600" stop="20260713140000 -0600" channel="hbo_latino_este">
 <title>La Casa del Dragón</title>
@@ -11776,7 +11776,7 @@
 <title>Super Bowl Highlights</title>
 </programme>
 <programme start="20260713123000 -0600" stop="20260713133000 -0600" channel="nfl_network">
-<title>America's Game</title>
+<title>America&apos;s Game</title>
 </programme>
 <programme start="20260713133000 -0600" stop="20260713140000 -0600" channel="nfl_network">
 <title>NFL Football</title>
@@ -11791,13 +11791,13 @@
 <title>The Scent Of The Wind Temporada 1 ????? 76</title>
 </programme>
 <programme start="20260713124500 -0600" stop="20260713131200 -0600" channel="nhk_world">
-<title>Today's close-up</title>
+<title>Today&apos;s close-up</title>
 </programme>
 <programme start="20260713131200 -0600" stop="20260713131500 -0600" channel="nhk_world">
 <title>World weather</title>
 </programme>
 <programme start="20260713131500 -0600" stop="20260713140000 -0600" channel="nhk_world">
-<title>Tsurube's salute to families Miyazawa Emma in Fushimi Ward, Kyoto Prefecture</title>
+<title>Tsurube&apos;s salute to families Miyazawa Emma in Fushimi Ward, Kyoto Prefecture</title>
 </programme>
 <programme start="20260713120000 -0600" stop="20260713121500 -0600" channel="nick_jr_espa_a">
 <title>Barbapapá: ¡Una gran familia! Temporada 2 Princesa por un día / La odisea de Barbabravo</title>
@@ -12055,7 +12055,7 @@
 <title>Maya the Bee</title>
 </programme>
 <programme start="20260713131600 -0600" stop="20260713132900 -0600" channel="semillitas">
-<title>Dumper & Skoop</title>
+<title>Dumper &amp; Skoop</title>
 </programme>
 <programme start="20260713132900 -0600" stop="20260713133800 -0600" channel="semillitas">
 <title>Dr. Panda</title>
@@ -12064,7 +12064,7 @@
 <title>Mini Heroes of the Forest</title>
 </programme>
 <programme start="20260713134600 -0600" stop="20260713135800 -0600" channel="semillitas">
-<title>Franklin & Friend</title>
+<title>Franklin &amp; Friend</title>
 </programme>
 <programme start="20260713135800 -0600" stop="20260713140000 -0600" channel="semillitas">
 <title>Caillous New Adventure</title>
@@ -12637,7 +12637,7 @@
 <title>Programação a Confirmar</title>
 </programme>
 <programme start="20260713120000 -0600" stop="20260713120300 -0600" channel="tv5monde">
-<title>64' Débat</title>
+<title>64&apos; Débat</title>
 </programme>
 <programme start="20260713120300 -0600" stop="20260713140000 -0600" channel="tv5monde">
 <title>Les Siffleurs</title>
@@ -13561,7 +13561,7 @@
 <title>Corrida de Toros</title>
 </programme>
 <programme start="20260713140000 -0600" stop="20260713141400 -0600" channel="adult_swim_m_xico">
-<title>Frieren Beyond Journey's End</title>
+<title>Frieren Beyond Journey&apos;s End</title>
 </programme>
 <programme start="20260713141400 -0600" stop="20260713144100 -0600" channel="adult_swim_m_xico">
 <title>Spy x Family</title>
@@ -13591,7 +13591,7 @@
 <title>Teen titans Problemas mecánicos</title>
 </programme>
 <programme start="20260713153400 -0600" stop="20260713155600 -0600" channel="adult_swim_panregional">
-<title>Teen titans ¿Qué tan largo es "Para siempre"?</title>
+<title>Teen titans ¿Qué tan largo es &quot;Para siempre&quot;?</title>
 </programme>
 <programme start="20260713155600 -0600" stop="20260713160000 -0600" channel="adult_swim_panregional">
 <title>Haikyu!! Temporada 6 Ritmo #2.6</title>
@@ -13741,7 +13741,7 @@
 <title>CSI Toe Tags</title>
 </programme>
 <programme start="20260713141000 -0600" stop="20260713150000 -0600" channel="axn_andes">
-<title>CSI Fannysmackin'</title>
+<title>CSI Fannysmackin&apos;</title>
 </programme>
 <programme start="20260713150000 -0600" stop="20260713155000 -0600" channel="axn_andes">
 <title>CSI: Miami Dead Ringer</title>
@@ -13816,13 +13816,13 @@
 <title>Discovering with Gee-Raffa</title>
 </programme>
 <programme start="20260713150000 -0600" stop="20260713153000 -0600" channel="babyfirst_tv">
-<title>Bug'n' Play al rescate</title>
+<title>Bug&apos;n&apos; Play al rescate</title>
 </programme>
 <programme start="20260713153000 -0600" stop="20260713160000 -0600" channel="babyfirst_tv">
 <title>Película</title>
 </programme>
 <programme start="20260713140000 -0600" stop="20260713150000 -0600" channel="bandamax">
-<title>Vivo Pa'la banda</title>
+<title>Vivo Pa&apos;la banda</title>
 </programme>
 <programme start="20260713150000 -0600" stop="20260713153000 -0600" channel="bandamax">
 <title>Que news Bandamax</title>
@@ -13906,7 +13906,7 @@
 <title>The Fate of the Furious</title>
 </programme>
 <programme start="20260713140000 -0600" stop="20260713143000 -0600" channel="caracol_internacional">
-<title>Mariana & Scarlett</title>
+<title>Mariana &amp; Scarlett</title>
 </programme>
 <programme start="20260713143000 -0600" stop="20260713153000 -0600" channel="caracol_internacional">
 <title>Se dice de mi</title>
@@ -14059,7 +14059,7 @@
 <title>Hey, Duggee The River Badge</title>
 </programme>
 <programme start="20260713153400 -0600" stop="20260713154200 -0600" channel="cartoonito_panregional">
-<title>Minibods Lulu's Big Adventure</title>
+<title>Minibods Lulu&apos;s Big Adventure</title>
 </programme>
 <programme start="20260713154200 -0600" stop="20260713154900 -0600" channel="cartoonito_panregional">
 <title>Minibods 123, Boo</title>
@@ -14101,7 +14101,7 @@
 <title>Hey Duggee</title>
 </programme>
 <programme start="20260713153400 -0600" stop="20260713154200 -0600" channel="cartoonito_sur">
-<title>Minibods Temporada 1 Lulu's Big Adventure</title>
+<title>Minibods Temporada 1 Lulu&apos;s Big Adventure</title>
 </programme>
 <programme start="20260713154200 -0600" stop="20260713154900 -0600" channel="cartoonito_sur">
 <title>Minibods Temporada 1 One, Two, Three, Boo!</title>
@@ -14386,7 +14386,7 @@
 <title>The Day</title>
 </programme>
 <programme start="20260713151500 -0600" stop="20260713160000 -0600" channel="dw">
-<title>America's Journey to Freedom</title>
+<title>America&apos;s Journey to Freedom</title>
 </programme>
 <programme start="20260713140000 -0600" stop="20260713154500 -0600" channel="dhe">
 <title>Juego de Traicion</title>
@@ -14467,10 +14467,10 @@
 <title>Topo Gigio</title>
 </programme>
 <programme start="20260713150100 -0600" stop="20260713151500 -0600" channel="discovery_kids_chile">
-<title>Luna's Show</title>
+<title>Luna&apos;s Show</title>
 </programme>
 <programme start="20260713151500 -0600" stop="20260713152700 -0600" channel="discovery_kids_chile">
-<title>Bubble's Hotel</title>
+<title>Bubble&apos;s Hotel</title>
 </programme>
 <programme start="20260713152700 -0600" stop="20260713155400 -0600" channel="discovery_kids_chile">
 <title>Peppa</title>
@@ -14491,10 +14491,10 @@
 <title>Topo Gigio La masa pegajosa</title>
 </programme>
 <programme start="20260713150100 -0600" stop="20260713151500 -0600" channel="discovery_kids_latam">
-<title>Luna's Show Acelera, ¡futuro!</title>
+<title>Luna&apos;s Show Acelera, ¡futuro!</title>
 </programme>
 <programme start="20260713151500 -0600" stop="20260713152700 -0600" channel="discovery_kids_latam">
-<title>Bubble's Hotel Una situación espinosa</title>
+<title>Bubble&apos;s Hotel Una situación espinosa</title>
 </programme>
 <programme start="20260713152700 -0600" stop="20260713155400 -0600" channel="discovery_kids_latam">
 <title>Peppa Pig Aviones de papel /La ropa nueva de George / Casa de Madame Gazelle / Viaje en tren</title>
@@ -14539,7 +14539,7 @@
 <title>¿Podría vivir ahí? Hungría</title>
 </programme>
 <programme start="20260713141200 -0600" stop="20260713143600 -0600" channel="discovery_world_lat">
-<title>Secretos de la isla Martha's Vineyard y Nantucket</title>
+<title>Secretos de la isla Martha&apos;s Vineyard y Nantucket</title>
 </programme>
 <programme start="20260713143600 -0600" stop="20260713150000 -0600" channel="discovery_world_lat">
 <title>Mi casa en la playa Hermanos en la playa</title>
@@ -14815,7 +14815,7 @@
 <title>Nations Championship 2026</title>
 </programme>
 <programme start="20260713140000 -0600" stop="20260713160000 -0600" channel="espn_2_norte">
-<title>The Championships, Wimbledon Final masculina, All England Lawn Tennis & Croquet Club, England</title>
+<title>The Championships, Wimbledon Final masculina, All England Lawn Tennis &amp; Croquet Club, England</title>
 </programme>
 <programme start="20260713140000 -0600" stop="20260713160000 -0600" channel="espn_2_sur">
 <title>Nations Championship 2026 Argentina vs. Gales</title>
@@ -15388,7 +15388,7 @@
 <title>Cuando el mal se disfraza La vida en Florida</title>
 </programme>
 <programme start="20260713140000 -0600" stop="20260713150000 -0600" channel="la_red_chile">
-<title>Charlie's angels</title>
+<title>Charlie&apos;s angels</title>
 </programme>
 <programme start="20260713150000 -0600" stop="20260713160000 -0600" channel="la_red_chile">
 <title>The a-team</title>
@@ -15505,7 +15505,7 @@
 <title>La Afición los Entrenamientos</title>
 </programme>
 <programme start="20260713140000 -0600" stop="20260713151600 -0600" channel="m_comedia">
-<title>Saturday night live Temporada 51 Josh O'Connor; Lily Allen</title>
+<title>Saturday night live Temporada 51 Josh O&apos;Connor; Lily Allen</title>
 </programme>
 <programme start="20260713151600 -0600" stop="20260713153100 -0600" channel="m_comedia">
 <title>Se tiene que morir mucha gente</title>
@@ -15625,7 +15625,7 @@
 <title>My gardening</title>
 </programme>
 <programme start="20260713145000 -0600" stop="20260713145500 -0600" channel="nhk_world">
-<title>Kyoto's Hidamariya Garden Shop</title>
+<title>Kyoto&apos;s Hidamariya Garden Shop</title>
 </programme>
 <programme start="20260713145500 -0600" stop="20260713150000 -0600" channel="nhk_world">
 <title>World weather</title>
@@ -15793,7 +15793,7 @@
 <title>Paraguay deportivo</title>
 </programme>
 <programme start="20260713140000 -0600" stop="20260713160000 -0600" channel="paravisi_n">
-<title>Hudson & Rex</title>
+<title>Hudson &amp; Rex</title>
 </programme>
 <programme start="20260713140000 -0600" stop="20260713150000 -0600" channel="pasiones_estados_unidos">
 <title>Desamparados</title>
@@ -15877,7 +15877,7 @@
 <title>Bubu y las lechucitas</title>
 </programme>
 <programme start="20260713142700 -0600" stop="20260713144900 -0600" channel="semillitas">
-<title>Strawberry Shortcake's Berry Bitty Adventure</title>
+<title>Strawberry Shortcake&apos;s Berry Bitty Adventure</title>
 </programme>
 <programme start="20260713144900 -0600" stop="20260713151300 -0600" channel="semillitas">
 <title>Sid, el niño científico</title>
@@ -16471,7 +16471,7 @@
 <title>Automotriz</title>
 </programme>
 <programme start="20260713152100 -0600" stop="20260713160000 -0600" channel="ultra_docu">
-<title>999: What's Your Emergency?</title>
+<title>999: What&apos;s Your Emergency?</title>
 </programme>
 <programme start="20260713140000 -0600" stop="20260713150000 -0600" channel="ultra_fiesta">
 <title>Ultra fiesta hitz</title>
@@ -17326,7 +17326,7 @@
 <title>El Campo Caquetá</title>
 </programme>
 <programme start="20260713170000 -0600" stop="20260713173000 -0600" channel="agrotendencia_tv">
-<title>America's Heartland</title>
+<title>America&apos;s Heartland</title>
 </programme>
 <programme start="20260713173000 -0600" stop="20260713180000 -0600" channel="agrotendencia_tv">
 <title>Agronoticias Sie7e</title>
@@ -17491,13 +17491,13 @@
 <title>Hawaii Five-0 Ua Lawe Wale (Taken)</title>
 </programme>
 <programme start="20260713173000 -0600" stop="20260713180000 -0600" channel="axn_andes">
-<title>Hawaii Five-0 Kame'e (The Hero)</title>
+<title>Hawaii Five-0 Kame&apos;e (The Hero)</title>
 </programme>
 <programme start="20260713160000 -0600" stop="20260713163700 -0600" channel="axn_es">
 <title>A todo gas 6</title>
 </programme>
 <programme start="20260713163700 -0600" stop="20260713180000 -0600" channel="axn_es">
-<title>Fast & Furious 5</title>
+<title>Fast &amp; Furious 5</title>
 </programme>
 <programme start="20260713160000 -0600" stop="20260713165000 -0600" channel="axn_m_xico">
 <title>CSI: Miami Temporada 8 Episodio 11</title>
@@ -17569,7 +17569,7 @@
 <title>Las mas sonadas</title>
 </programme>
 <programme start="20260713160000 -0600" stop="20260713170000 -0600" channel="bar_a_tv">
-<title>S'ha demostrat! La pel·lícula de la temporada 2015/16</title>
+<title>S&apos;ha demostrat! La pel·lícula de la temporada 2015/16</title>
 </programme>
 <programme start="20260713170000 -0600" stop="20260713173000 -0600" channel="bar_a_tv">
 <title>Aquí Palau</title>
@@ -17782,13 +17782,13 @@
 <title>Bugs y sus amigos a la obra Hare Ball</title>
 </programme>
 <programme start="20260713171400 -0600" stop="20260713172600 -0600" channel="cartoonito_panregional">
-<title>Bugs y sus amigos a la obra Sam's Stylin' Salon</title>
+<title>Bugs y sus amigos a la obra Sam&apos;s Stylin&apos; Salon</title>
 </programme>
 <programme start="20260713172600 -0600" stop="20260713173700 -0600" channel="cartoonito_panregional">
 <title>Batwheels License to Joke</title>
 </programme>
 <programme start="20260713173700 -0600" stop="20260713174800 -0600" channel="cartoonito_panregional">
-<title>Batwheels Bibi's Bad Day</title>
+<title>Batwheels Bibi&apos;s Bad Day</title>
 </programme>
 <programme start="20260713174800 -0600" stop="20260713175900 -0600" channel="cartoonito_panregional">
 <title>Batwheels Batty Race</title>
@@ -17965,7 +17965,7 @@
 <title>Cuéntame como pasó Temporada 10 Vender o no vender, ésa es la cuestión</title>
 </programme>
 <programme start="20260713172300 -0600" stop="20260713180000 -0600" channel="clan_tve">
-<title>Cuéntame como pasó Temporada 10 El hijo del p'arriba</title>
+<title>Cuéntame como pasó Temporada 10 El hijo del p&apos;arriba</title>
 </programme>
 <programme start="20260713160000 -0600" stop="20260713173000 -0600" channel="claro_tv">
 <title>A todos los hombres que me amaron</title>
@@ -18118,7 +18118,7 @@
 <title>El hijo de Huracán Ramírez</title>
 </programme>
 <programme start="20260713160000 -0600" stop="20260713160200 -0600" channel="dw">
-<title>America's Journey to Freedom</title>
+<title>America&apos;s Journey to Freedom</title>
 </programme>
 <programme start="20260713160200 -0600" stop="20260713163000 -0600" channel="dw">
 <title>The Day</title>
@@ -18544,10 +18544,10 @@
 <title>Nations Championship 2026</title>
 </programme>
 <programme start="20260713160000 -0600" stop="20260713170000 -0600" channel="espn_2_norte">
-<title>The Championships, Wimbledon Final masculina, All England Lawn Tennis & Croquet Club, England</title>
+<title>The Championships, Wimbledon Final masculina, All England Lawn Tennis &amp; Croquet Club, England</title>
 </programme>
 <programme start="20260713170000 -0600" stop="20260713180000 -0600" channel="espn_2_norte">
-<title>Las Vegas Summer League Dallas Mavericks vs. Memphis Grizzlies, Thomas & Mack Center, Las Vegas, NV, USA</title>
+<title>Las Vegas Summer League Dallas Mavericks vs. Memphis Grizzlies, Thomas &amp; Mack Center, Las Vegas, NV, USA</title>
 </programme>
 <programme start="20260713160000 -0600" stop="20260713173000 -0600" channel="espn_2_sur">
 <title>SportsCenter</title>
@@ -18622,7 +18622,7 @@
 <title>ESPN Compact - Super Rugby Americas ESPN Compact - Super Rugby AmericasRugby</title>
 </programme>
 <programme start="20260713170000 -0600" stop="20260713180000 -0600" channel="espn_6_c_a_y_r_d">
-<title>The Championships, Wimbledon Final masculina, All England Lawn Tennis & Croquet Club, England</title>
+<title>The Championships, Wimbledon Final masculina, All England Lawn Tennis &amp; Croquet Club, England</title>
 </programme>
 <programme start="20260713160000 -0600" stop="20260713170000 -0600" channel="espn_6_sur">
 <title>ESPN Compact</title>
@@ -19639,7 +19639,7 @@
 <title>Maya the Bee</title>
 </programme>
 <programme start="20260713170000 -0600" stop="20260713171400 -0600" channel="semillitas">
-<title>Franklin & Friend</title>
+<title>Franklin &amp; Friend</title>
 </programme>
 <programme start="20260713171400 -0600" stop="20260713172200 -0600" channel="semillitas">
 <title>Mini Heroes of the Forest</title>
@@ -20065,10 +20065,10 @@
 <title>CSI Temporada 15 Episodio 2</title>
 </programme>
 <programme start="20260713163700 -0600" stop="20260713172400 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 9 Episodio 1</title>
+<title>Law &amp; Order: SVU Temporada 9 Episodio 1</title>
 </programme>
 <programme start="20260713172400 -0600" stop="20260713180000 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 9 Episodio 2</title>
+<title>Law &amp; Order: SVU Temporada 9 Episodio 2</title>
 </programme>
 <programme start="20260713160000 -0600" stop="20260713161000 -0600" channel="tooncast">
 <title>El campamento de Lazlo</title>
@@ -20215,10 +20215,10 @@
 <title>Ransom</title>
 </programme>
 <programme start="20260713160000 -0600" stop="20260713160500 -0600" channel="ultra_docu">
-<title>999: What's Your Emergency?</title>
+<title>999: What&apos;s Your Emergency?</title>
 </programme>
 <programme start="20260713160500 -0600" stop="20260713165200 -0600" channel="ultra_docu">
-<title>999: What's Your Emergency?</title>
+<title>999: What&apos;s Your Emergency?</title>
 </programme>
 <programme start="20260713165200 -0600" stop="20260713180000 -0600" channel="ultra_docu">
 <title>Violencia Privada</title>
@@ -20251,10 +20251,10 @@
 <title>Motu Patlu</title>
 </programme>
 <programme start="20260713165100 -0600" stop="20260713171600 -0600" channel="ultra_kidz">
-<title>Super Supremes: Nursery Rhymes & Baby Songs</title>
+<title>Super Supremes: Nursery Rhymes &amp; Baby Songs</title>
 </programme>
 <programme start="20260713171600 -0600" stop="20260713174200 -0600" channel="ultra_kidz">
-<title>Super Supremes: Nursery Rhymes & Baby Songs</title>
+<title>Super Supremes: Nursery Rhymes &amp; Baby Songs</title>
 </programme>
 <programme start="20260713174200 -0600" stop="20260713180000 -0600" channel="ultra_kidz">
 <title>Smarty-Pants Eric</title>
@@ -20620,7 +20620,7 @@
 <title>Reto 4 Elementos</title>
 </programme>
 <programme start="20260713190000 -0600" stop="20260713200000 -0600" channel="4_de_costa_rica">
-<title>America's Next Top Model</title>
+<title>America&apos;s Next Top Model</title>
 </programme>
 <programme start="20260713180000 -0600" stop="20260713200000 -0600" channel="4_de_el_salvador">
 <title>Minuto 2026</title>
@@ -21103,7 +21103,7 @@
 <title>Dan Da Dan Ya somos familia</title>
 </programme>
 <programme start="20260713195600 -0600" stop="20260713200000 -0600" channel="adult_swim_panregional">
-<title>Frieren Beyond Journey's End Seremos rivales</title>
+<title>Frieren Beyond Journey&apos;s End Seremos rivales</title>
 </programme>
 <programme start="20260713180000 -0600" stop="20260713183000 -0600" channel="agrotendencia_tv">
 <title>Agroriente</title>
@@ -21277,7 +21277,7 @@
 <title>Ocurre ahora</title>
 </programme>
 <programme start="20260713180000 -0600" stop="20260713182000 -0600" channel="axn_andes">
-<title>Hawaii Five-0 Kame'e (The Hero)</title>
+<title>Hawaii Five-0 Kame&apos;e (The Hero)</title>
 </programme>
 <programme start="20260713182000 -0600" stop="20260713191000 -0600" channel="axn_andes">
 <title>Hawaii Five-0 Mea Makamae (Treasure)</title>
@@ -21286,7 +21286,7 @@
 <title>Criminal Minds Empty Planet</title>
 </programme>
 <programme start="20260713180000 -0600" stop="20260713183700 -0600" channel="axn_es">
-<title>Fast & Furious 5</title>
+<title>Fast &amp; Furious 5</title>
 </programme>
 <programme start="20260713183700 -0600" stop="20260713192100 -0600" channel="axn_es">
 <title>S.W.A.T.: Los Hombres de Harrelson Temporada 3 Diablo</title>
@@ -21658,16 +21658,16 @@
 <title>Cuquín Temporada 2 Episodio 7</title>
 </programme>
 <programme start="20260713190200 -0600" stop="20260713191000 -0600" channel="cartoonito_sur">
-<title>Lu & the Bally Bunch</title>
+<title>Lu &amp; the Bally Bunch</title>
 </programme>
 <programme start="20260713191000 -0600" stop="20260713191800 -0600" channel="cartoonito_sur">
-<title>Lu & the Bally Bunch</title>
+<title>Lu &amp; the Bally Bunch</title>
 </programme>
 <programme start="20260713191800 -0600" stop="20260713192600 -0600" channel="cartoonito_sur">
-<title>Lu & the Bally Bunch</title>
+<title>Lu &amp; the Bally Bunch</title>
 </programme>
 <programme start="20260713192600 -0600" stop="20260713193400 -0600" channel="cartoonito_sur">
-<title>Lu & the Bally Bunch</title>
+<title>Lu &amp; the Bally Bunch</title>
 </programme>
 <programme start="20260713193400 -0600" stop="20260713195800 -0600" channel="cartoonito_sur">
 <title>La casa de muñecas de Gabby Temporada 4 El festival de las hadas</title>
@@ -21790,7 +21790,7 @@
 <title>Citynoticias de las 8</title>
 </programme>
 <programme start="20260713180000 -0600" stop="20260713183900 -0600" channel="clan_tve">
-<title>Cuéntame como pasó Temporada 10 El hijo del p'arriba</title>
+<title>Cuéntame como pasó Temporada 10 El hijo del p&apos;arriba</title>
 </programme>
 <programme start="20260713183900 -0600" stop="20260713193000 -0600" channel="clan_tve">
 <title>Dos vidas Temporada 1 Episodio 24</title>
@@ -22177,10 +22177,10 @@
 <title>Los Green en la gran ciudad Temporada 1</title>
 </programme>
 <programme start="20260713181000 -0600" stop="20260713183500 -0600" channel="disney_junior_espa_a">
-<title>Hamster & Gretel</title>
+<title>Hamster &amp; Gretel</title>
 </programme>
 <programme start="20260713183500 -0600" stop="20260713185500 -0600" channel="disney_junior_espa_a">
-<title>Hamster & Gretel</title>
+<title>Hamster &amp; Gretel</title>
 </programme>
 <programme start="20260713185500 -0600" stop="20260713192000 -0600" channel="disney_junior_espa_a">
 <title>Phineas y Ferb</title>
@@ -22381,7 +22381,7 @@
 <title>ESPN Compact</title>
 </programme>
 <programme start="20260713180000 -0600" stop="20260713190000 -0600" channel="espn_2_norte">
-<title>Las Vegas Summer League Dallas Mavericks vs. Memphis Grizzlies, Thomas & Mack Center, Las Vegas, NV, USA</title>
+<title>Las Vegas Summer League Dallas Mavericks vs. Memphis Grizzlies, Thomas &amp; Mack Center, Las Vegas, NV, USA</title>
 </programme>
 <programme start="20260713190000 -0600" stop="20260713193000 -0600" channel="espn_2_norte">
 <title>Tour de France Highlights</title>
@@ -22465,7 +22465,7 @@
 <title>ESPN Knockout</title>
 </programme>
 <programme start="20260713180000 -0600" stop="20260713200000 -0600" channel="espn_6_c_a_y_r_d">
-<title>The Championships, Wimbledon Final masculina, All England Lawn Tennis & Croquet Club, England</title>
+<title>The Championships, Wimbledon Final masculina, All England Lawn Tennis &amp; Croquet Club, England</title>
 </programme>
 <programme start="20260713180000 -0600" stop="20260713200000 -0600" channel="espn_6_sur">
 <title>Campeonato de Wimbledon 2026</title>
@@ -22900,7 +22900,7 @@
 <title>Forensic Files Fatal Fungus</title>
 </programme>
 <programme start="20260713190000 -0600" stop="20260713193000 -0600" channel="hln">
-<title>Forensic Files Something's Fishy</title>
+<title>Forensic Files Something&apos;s Fishy</title>
 </programme>
 <programme start="20260713193000 -0600" stop="20260713200000 -0600" channel="hln">
 <title>Forensic Files Sealed With a Kiss</title>
@@ -23164,7 +23164,7 @@
 <title>Catfish The TV Show</title>
 </programme>
 <programme start="20260713195500 -0600" stop="20260713200000 -0600" channel="mtv_sur">
-<title>Love & Hip Hop Atlanta</title>
+<title>Love &amp; Hip Hop Atlanta</title>
 </programme>
 <programme start="20260713180000 -0600" stop="20260713190000 -0600" channel="multimedios_costa_rica">
 <title>Alerta 8</title>
@@ -23230,13 +23230,13 @@
 <title>Exercise for Everyone</title>
 </programme>
 <programme start="20260713190000 -0600" stop="20260713190500 -0600" channel="nhk_world">
-<title>News & Weather</title>
+<title>News &amp; Weather</title>
 </programme>
 <programme start="20260713190500 -0600" stop="20260713195000 -0600" channel="nhk_world">
-<title>Tsurube's salute to families Miyazawa Emma in Fushimi Ward, Kyoto Prefecture</title>
+<title>Tsurube&apos;s salute to families Miyazawa Emma in Fushimi Ward, Kyoto Prefecture</title>
 </programme>
 <programme start="20260713195000 -0600" stop="20260713200000 -0600" channel="nhk_world">
-<title>Today's close-up</title>
+<title>Today&apos;s close-up</title>
 </programme>
 <programme start="20260713180000 -0600" stop="20260713181500 -0600" channel="nick_jr_espa_a">
 <title>Barbapapá: ¡Una gran familia! Temporada 1 Que se haga justicia / La gran limpieza primaveral</title>
@@ -23452,7 +23452,7 @@
 <title>Noticias RCN</title>
 </programme>
 <programme start="20260713190000 -0600" stop="20260713200000 -0600" channel="rcn_colombia">
-<title>Pa' Quererte</title>
+<title>Pa&apos; Quererte</title>
 </programme>
 <programme start="20260713180000 -0600" stop="20260713190000 -0600" channel="rcn_novelas">
 <title>No olvidaras mi nombre</title>
@@ -23488,7 +23488,7 @@
 <title>Racoon</title>
 </programme>
 <programme start="20260713181800 -0600" stop="20260713184100 -0600" channel="semillitas">
-<title>Strawberry Shortcake's Berry Bitty Adventure</title>
+<title>Strawberry Shortcake&apos;s Berry Bitty Adventure</title>
 </programme>
 <programme start="20260713184100 -0600" stop="20260713190600 -0600" channel="semillitas">
 <title>Sid, el niño científico</title>
@@ -23950,7 +23950,7 @@
 <title>Quiéreme Siempre</title>
 </programme>
 <programme start="20260713180000 -0600" stop="20260713180700 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 9 Episodio 2</title>
+<title>Law &amp; Order: SVU Temporada 9 Episodio 2</title>
 </programme>
 <programme start="20260713180700 -0600" stop="20260713185700 -0600" channel="tnt_series_lat">
 <title>The Mentalist Temporada 1 Episodio 23</title>
@@ -24091,7 +24091,7 @@
 <title>Fort boyard, les origines</title>
 </programme>
 <programme start="20260713194200 -0600" stop="20260713200000 -0600" channel="tv5monde">
-<title>L'actu news</title>
+<title>L&apos;actu news</title>
 </programme>
 <programme start="20260713180000 -0600" stop="20260713200000 -0600" channel="tvc_deportes">
 <title>Fútbol Mexicano Liga Expansión</title>
@@ -24988,13 +24988,13 @@
 <title>The Apothecary Diaries</title>
 </programme>
 <programme start="20260713210900 -0600" stop="20260713213600 -0600" channel="adult_swim_m_xico">
-<title>Frieren Beyond Journey's End</title>
+<title>Frieren Beyond Journey&apos;s End</title>
 </programme>
 <programme start="20260713213600 -0600" stop="20260713220000 -0600" channel="adult_swim_m_xico">
-<title>Rick & Morty</title>
+<title>Rick &amp; Morty</title>
 </programme>
 <programme start="20260713200000 -0600" stop="20260713202400 -0600" channel="adult_swim_panregional">
-<title>Frieren Beyond Journey's End Seremos rivales</title>
+<title>Frieren Beyond Journey&apos;s End Seremos rivales</title>
 </programme>
 <programme start="20260713202400 -0600" stop="20260713205300 -0600" channel="adult_swim_panregional">
 <title>Spy x Family El plan para cruzar la frontera</title>
@@ -25003,7 +25003,7 @@
 <title>Jujutsu Kaisen Cómplices</title>
 </programme>
 <programme start="20260713211800 -0600" stop="20260713214100 -0600" channel="adult_swim_panregional">
-<title>Rick & Morty Rickinillo</title>
+<title>Rick &amp; Morty Rickinillo</title>
 </programme>
 <programme start="20260713214100 -0600" stop="20260713220000 -0600" channel="adult_swim_panregional">
 <title>Sociedad de virtud</title>
@@ -25177,7 +25177,7 @@
 <title>Criminal Minds Lessons Learned</title>
 </programme>
 <programme start="20260713215500 -0600" stop="20260713220000 -0600" channel="axn_andes">
-<title>Hawaii Five-0 Hana 'a' a Makehewa (Desperate Measures)</title>
+<title>Hawaii Five-0 Hana &apos;a&apos; a Makehewa (Desperate Measures)</title>
 </programme>
 <programme start="20260713200000 -0600" stop="20260713200600 -0600" channel="axn_es">
 <title>S.W.A.T.: Los Hombres de Harrelson Temporada 4 Tres jóvenes de diecisiete años</title>
@@ -25267,7 +25267,7 @@
 <title>Los Consagrados de Bandamax</title>
 </programme>
 <programme start="20260713200000 -0600" stop="20260713210000 -0600" channel="bar_a_tv">
-<title>S'ha demostrat! La pel·lícula de la temporada 2015/16</title>
+<title>S&apos;ha demostrat! La pel·lícula de la temporada 2015/16</title>
 </programme>
 <programme start="20260713210000 -0600" stop="20260713220000 -0600" channel="bar_a_tv">
 <title>Recorda míster</title>
@@ -25372,7 +25372,7 @@
 <title>La reina de Indias y el conquistador</title>
 </programme>
 <programme start="20260713203000 -0600" stop="20260713213000 -0600" channel="caracol_internacional">
-<title>Mariana & Scarlett</title>
+<title>Mariana &amp; Scarlett</title>
 </programme>
 <programme start="20260713213000 -0600" stop="20260713220000 -0600" channel="caracol_internacional">
 <title>Random 360</title>
@@ -25447,7 +25447,7 @@
 <title>Regular Show: The Lost Tapes Temporada 1 Good Mitch Spiking</title>
 </programme>
 <programme start="20260713215200 -0600" stop="20260713220000 -0600" channel="cartoon_network_m_xico">
-<title>Regular Show: The Lost Tapes Temporada 1 Fix That Tape; Skips' Luau</title>
+<title>Regular Show: The Lost Tapes Temporada 1 Fix That Tape; Skips&apos; Luau</title>
 </programme>
 <programme start="20260713200000 -0600" stop="20260713200400 -0600" channel="cartoon_network_pac_fico">
 <title>Escandalosos Temporada 3 El demonio</title>
@@ -25507,7 +25507,7 @@
 <title>Batwheels El día de Zoom</title>
 </programme>
 <programme start="20260713212000 -0600" stop="20260713213200 -0600" channel="cartoonito_panregional">
-<title>Batwheels Kitty's Sleepover</title>
+<title>Batwheels Kitty&apos;s Sleepover</title>
 </programme>
 <programme start="20260713213200 -0600" stop="20260713214300 -0600" channel="cartoonito_panregional">
 <title>Batwheels Kitty Kong</title>
@@ -26044,7 +26044,7 @@
 <title>ADN mecánico Temporada 2 Más de lo que se ve</title>
 </programme>
 <programme start="20260713204900 -0600" stop="20260713214400 -0600" channel="discovery_turbo_latam">
-<title>Overhaulin' Temporada 10 El mejor Corvette</title>
+<title>Overhaulin&apos; Temporada 10 El mejor Corvette</title>
 </programme>
 <programme start="20260713214400 -0600" stop="20260713220000 -0600" channel="discovery_turbo_latam">
 <title>Texas Metal Temporada 7 Cambio radical de una Ford 1949</title>
@@ -26104,13 +26104,13 @@
 <title>Phineas y Ferb</title>
 </programme>
 <programme start="20260713200500 -0600" stop="20260713202500 -0600" channel="disney_junior_espa_a">
-<title>Hamster & Gretel</title>
+<title>Hamster &amp; Gretel</title>
 </programme>
 <programme start="20260713202500 -0600" stop="20260713205000 -0600" channel="disney_junior_espa_a">
-<title>Hamster & Gretel</title>
+<title>Hamster &amp; Gretel</title>
 </programme>
 <programme start="20260713205000 -0600" stop="20260713211000 -0600" channel="disney_junior_espa_a">
-<title>Hamster & Gretel</title>
+<title>Hamster &amp; Gretel</title>
 </programme>
 <programme start="20260713211000 -0600" stop="20260713213000 -0600" channel="disney_junior_espa_a">
 <title>Los Green en la gran ciudad Temporada 1</title>
@@ -27055,7 +27055,7 @@
 <title>Geordie Shore Temporada 21 ¡Que empiece la fiesta!</title>
 </programme>
 <programme start="20260713200000 -0600" stop="20260713203500 -0600" channel="mtv_sur">
-<title>Love & Hip Hop Atlanta</title>
+<title>Love &amp; Hip Hop Atlanta</title>
 </programme>
 <programme start="20260713203500 -0600" stop="20260713211500 -0600" channel="mtv_sur">
 <title>Caught in the Act Unfaithful</title>
@@ -27118,7 +27118,7 @@
 <title>NFL Insiders NFL</title>
 </programme>
 <programme start="20260713200000 -0600" stop="20260713201700 -0600" channel="nhk_world">
-<title>Today's close-up</title>
+<title>Today&apos;s close-up</title>
 </programme>
 <programme start="20260713201700 -0600" stop="20260713202000 -0600" channel="nhk_world">
 <title>Mini Program</title>
@@ -27355,7 +27355,7 @@
 <title>Filorosso</title>
 </programme>
 <programme start="20260713200000 -0600" stop="20260713210000 -0600" channel="rcn_colombia">
-<title>Pa' Quererte</title>
+<title>Pa&apos; Quererte</title>
 </programme>
 <programme start="20260713210000 -0600" stop="20260713220000 -0600" channel="rcn_colombia">
 <title>Retrato hablado</title>
@@ -27427,7 +27427,7 @@
 <title>Mini Heroes of the Forest</title>
 </programme>
 <programme start="20260713212500 -0600" stop="20260713214800 -0600" channel="semillitas">
-<title>Strawberry Shortcake's Berry Bitty Adventure</title>
+<title>Strawberry Shortcake&apos;s Berry Bitty Adventure</title>
 </programme>
 <programme start="20260713214800 -0600" stop="20260713220000 -0600" channel="semillitas">
 <title>Bubu y las lechucitas</title>
@@ -27481,7 +27481,7 @@
 <title>Rendirse jamás 4: La revuelta</title>
 </programme>
 <programme start="20260713212500 -0600" stop="20260713220000 -0600" channel="sony_movies_latam">
-<title>Escaping the NXIVM Cult: A Mother's Fight to Save Her Daughter</title>
+<title>Escaping the NXIVM Cult: A Mother&apos;s Fight to Save Her Daughter</title>
 </programme>
 <programme start="20260713200000 -0600" stop="20260713214500 -0600" channel="sorpresa">
 <title>Máquinas del trueno</title>
@@ -28015,7 +28015,7 @@
 <title>Em família com Eliana pode entrar</title>
 </programme>
 <programme start="20260713200000 -0600" stop="20260713201300 -0600" channel="tv5monde">
-<title>L'actu news</title>
+<title>L&apos;actu news</title>
 </programme>
 <programme start="20260713201300 -0600" stop="20260713220000 -0600" channel="tv5monde">
 <title>La Grande evasión</title>
@@ -28447,10 +28447,10 @@
 <title>Cuaderno de campo Temporada 1 Ratas y ratones</title>
 </programme>
 <programme start="20260713223000 -0600" stop="20260713224500 -0600" channel="la_2">
-<title>That's English</title>
+<title>That&apos;s English</title>
 </programme>
 <programme start="20260713224500 -0600" stop="20260713225500 -0600" channel="la_2">
-<title>That's English</title>
+<title>That&apos;s English</title>
 </programme>
 <programme start="20260713225500 -0600" stop="20260713230500 -0600" channel="la_2">
 <title>La 2 express</title>
@@ -28942,10 +28942,10 @@
 <title>Corrida de Toros</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713220100 -0600" channel="adult_swim_m_xico">
-<title>Rick & Morty</title>
+<title>Rick &amp; Morty</title>
 </programme>
 <programme start="20260713220100 -0600" stop="20260713222700 -0600" channel="adult_swim_m_xico">
-<title>Rick & Morty</title>
+<title>Rick &amp; Morty</title>
 </programme>
 <programme start="20260713222700 -0600" stop="20260713230500 -0600" channel="adult_swim_m_xico">
 <title>Lazarus</title>
@@ -28975,7 +28975,7 @@
 <title>Common Side Effects Pez globo</title>
 </programme>
 <programme start="20260713235100 -0600" stop="20260714000000 -0600" channel="adult_swim_panregional">
-<title>Rick & Morty Buscando las semillas</title>
+<title>Rick &amp; Morty Buscando las semillas</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713223000 -0600" channel="agrotendencia_tv">
 <title>El Campo Caquetá</title>
@@ -29158,22 +29158,22 @@
 <title>La fiesta del Gol</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713224500 -0600" channel="axn_andes">
-<title>Hawaii Five-0 Hana 'a' a Makehewa (Desperate Measures)</title>
+<title>Hawaii Five-0 Hana &apos;a&apos; a Makehewa (Desperate Measures)</title>
 </programme>
 <programme start="20260713224500 -0600" stop="20260713233500 -0600" channel="axn_andes">
 <title>Hawaii Five-0 Ke Kinohi (The Beginning)</title>
 </programme>
 <programme start="20260713233500 -0600" stop="20260714000000 -0600" channel="axn_andes">
-<title>CSI Fannysmackin'</title>
+<title>CSI Fannysmackin&apos;</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713224800 -0600" channel="axn_es">
 <title>Mentes Criminales Temporada 14 300</title>
 </programme>
 <programme start="20260713224800 -0600" stop="20260713233300 -0600" channel="axn_es">
-<title>Hudson & Rex Temporada 4 Muerte Súbita</title>
+<title>Hudson &amp; Rex Temporada 4 Muerte Súbita</title>
 </programme>
 <programme start="20260713233300 -0600" stop="20260714000000 -0600" channel="axn_es">
-<title>Hudson & Rex Temporada 4 El síndrome del perro impostor</title>
+<title>Hudson &amp; Rex Temporada 4 El síndrome del perro impostor</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713230500 -0600" channel="axn_m_xico">
 <title>Bright minds Temporada 4 Episodio 7</title>
@@ -29374,7 +29374,7 @@
 <title>Canal no disponible</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713220400 -0600" channel="cartoon_network_m_xico">
-<title>Regular Show: The Lost Tapes Temporada 1 Fix That Tape; Skips' Luau</title>
+<title>Regular Show: The Lost Tapes Temporada 1 Fix That Tape; Skips&apos; Luau</title>
 </programme>
 <programme start="20260713220400 -0600" stop="20260713221700 -0600" channel="cartoon_network_m_xico">
 <title>Los Jóvenes Titanes En Acción Temporada 6 Arte real</title>
@@ -29446,7 +29446,7 @@
 <title>La araña Lucas ¡Quiero a mi bebé bellota de regreso!</title>
 </programme>
 <programme start="20260713220200 -0600" stop="20260713220900 -0600" channel="cartoonito_panregional">
-<title>La araña Lucas Feliz "Eructaños"</title>
+<title>La araña Lucas Feliz &quot;Eructaños&quot;</title>
 </programme>
 <programme start="20260713220900 -0600" stop="20260713221600 -0600" channel="cartoonito_panregional">
 <title>La araña Lucas ¡Parpadeaste!</title>
@@ -29485,7 +29485,7 @@
 <title>Pocoyó Los nuevos juguetes de Pocoyó</title>
 </programme>
 <programme start="20260713233800 -0600" stop="20260713234500 -0600" channel="cartoonito_panregional">
-<title>Pocoyó Elly's Picnic</title>
+<title>Pocoyó Elly&apos;s Picnic</title>
 </programme>
 <programme start="20260713234500 -0600" stop="20260713235200 -0600" channel="cartoonito_panregional">
 <title>Pocoyó No quiero dormir</title>
@@ -30136,7 +30136,7 @@
 <title>Bluey</title>
 </programme>
 <programme start="20260713234000 -0600" stop="20260714000000 -0600" channel="disney_junior_espa_a">
-<title>Marvel's Iron Man and His Awesome Friends</title>
+<title>Marvel&apos;s Iron Man and His Awesome Friends</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713223000 -0600" channel="disney_junior_norte">
 <title>Bluey Temporada 1</title>
@@ -30568,7 +30568,7 @@
 <title>Televentas</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713235500 -0600" channel="film_arts">
-<title>Foyle's War Temporada 1 Episodio 1</title>
+<title>Foyle&apos;s War Temporada 1 Episodio 1</title>
 </programme>
 <programme start="20260713235500 -0600" stop="20260714000000 -0600" channel="film_arts">
 <title>La doble vida de Verónica</title>
@@ -31024,7 +31024,7 @@
 <title>Santa misa, Catedral</title>
 </programme>
 <programme start="20260713230000 -0600" stop="20260714000000 -0600" channel="mar_a_visi_n">
-<title>Santo rosario 'De las rosas'</title>
+<title>Santo rosario &apos;De las rosas&apos;</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713230000 -0600" channel="max_anime_latam">
 <title>Canaan</title>
@@ -31213,10 +31213,10 @@
 <title>Neox kidz Navidad</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713230000 -0600" channel="nfl_network">
-<title>America's Game</title>
+<title>America&apos;s Game</title>
 </programme>
 <programme start="20260713230000 -0600" stop="20260714000000 -0600" channel="nfl_network">
-<title>America's Game</title>
+<title>America&apos;s Game</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713220500 -0600" channel="nhk_world">
 <title>News</title>
@@ -31594,7 +31594,7 @@
 <title>Constantine</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713230000 -0600" channel="sony_movies_latam">
-<title>Escaping the NXIVM Cult: A Mother's Fight to Save Her Daughter</title>
+<title>Escaping the NXIVM Cult: A Mother&apos;s Fight to Save Her Daughter</title>
 </programme>
 <programme start="20260713230000 -0600" stop="20260714000000 -0600" channel="sony_movies_latam">
 <title>Juego de Secretos</title>
@@ -32104,7 +32104,7 @@
 <title>Le 6h info</title>
 </programme>
 <programme start="20260713233300 -0600" stop="20260714000000 -0600" channel="tv5monde">
-<title>C dans l'air</title>
+<title>C dans l&apos;air</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713230000 -0600" channel="tvc_deportes">
 <title>Película</title>
@@ -32152,7 +32152,7 @@
 <title>Murdertown Portsmouth</title>
 </programme>
 <programme start="20260713231700 -0600" stop="20260714000000 -0600" channel="ultra_docu">
-<title>999: What's Your Emergency?</title>
+<title>999: What&apos;s Your Emergency?</title>
 </programme>
 <programme start="20260713220000 -0600" stop="20260713230000 -0600" channel="ultra_fiesta">
 <title>Ultra fiesta hitz</title>
@@ -32740,7 +32740,7 @@
 <title>Soy el mejor</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714004500 -0600" channel="11_de_costa_rica">
-<title>Montse & Joe</title>
+<title>Montse &amp; Joe</title>
 </programme>
 <programme start="20260714004500 -0600" stop="20260714020000 -0600" channel="11_de_costa_rica">
 <title>Miembros al aire</title>
@@ -33022,10 +33022,10 @@
 <title>Dragon Ball Z</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714001400 -0600" channel="adult_swim_panregional">
-<title>Rick & Morty Buscando las semillas</title>
+<title>Rick &amp; Morty Buscando las semillas</title>
 </programme>
 <programme start="20260714001400 -0600" stop="20260714003700 -0600" channel="adult_swim_panregional">
-<title>Rick & Morty El cortador de césped perruno</title>
+<title>Rick &amp; Morty El cortador de césped perruno</title>
 </programme>
 <programme start="20260714003700 -0600" stop="20260714004900 -0600" channel="adult_swim_panregional">
 <title>Smiling Friends El Bosque Encantado</title>
@@ -33037,7 +33037,7 @@
 <title>Naruto ¡Mezcla, bátelo, que hierva! ¡Que se caliente la olla de cobre!</title>
 </programme>
 <programme start="20260714013700 -0600" stop="20260714015400 -0600" channel="adult_swim_panregional">
-<title>Sociedad de la Virtud R-Men "The Rescue"</title>
+<title>Sociedad de la Virtud R-Men &quot;The Rescue&quot;</title>
 </programme>
 <programme start="20260714015400 -0600" stop="20260714020000 -0600" channel="adult_swim_panregional">
 <title>Teen titans Todos unidos</title>
@@ -33208,16 +33208,16 @@
 <title>Combate</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714002500 -0600" channel="axn_andes">
-<title>CSI Fannysmackin'</title>
+<title>CSI Fannysmackin&apos;</title>
 </programme>
 <programme start="20260714002500 -0600" stop="20260714011500 -0600" channel="axn_andes">
 <title>Hawaii Five-0 Ua Lawe Wale (Taken)</title>
 </programme>
 <programme start="20260714011500 -0600" stop="20260714020000 -0600" channel="axn_andes">
-<title>Hawaii Five-0 Kame'e (The Hero)</title>
+<title>Hawaii Five-0 Kame&apos;e (The Hero)</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714001800 -0600" channel="axn_es">
-<title>Hudson & Rex Temporada 4 El síndrome del perro impostor</title>
+<title>Hudson &amp; Rex Temporada 4 El síndrome del perro impostor</title>
 </programme>
 <programme start="20260714001800 -0600" stop="20260714011900 -0600" channel="axn_es">
 <title>Doc Temporada 1 Cómo éramos</title>
@@ -33304,7 +33304,7 @@
 <title>El 9</title>
 </programme>
 <programme start="20260714014500 -0600" stop="20260714020000 -0600" channel="bar_a_tv">
-<title>600"</title>
+<title>600&quot;</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714003000 -0600" channel="bbc_news_international">
 <title>BBC News</title>
@@ -33385,7 +33385,7 @@
 <title>También Caerás</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714010000 -0600" channel="caracol_internacional">
-<title>Mariana & Scarlett</title>
+<title>Mariana &amp; Scarlett</title>
 </programme>
 <programme start="20260714010000 -0600" stop="20260714013000 -0600" channel="caracol_internacional">
 <title>Las mujeres de mi tierra</title>
@@ -33931,7 +33931,7 @@
 <title>Arts Unveiled</title>
 </programme>
 <programme start="20260714011500 -0600" stop="20260714020000 -0600" channel="dw">
-<title>America's Journey to Freedom</title>
+<title>America&apos;s Journey to Freedom</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714001000 -0600" channel="dhe">
 <title>La Noche del Demonio: La Última Llave</title>
@@ -34027,10 +34027,10 @@
 <title>Underdogs United</title>
 </programme>
 <programme start="20260714004800 -0600" stop="20260714010000 -0600" channel="discovery_kids_chile">
-<title>The Dog & Pony Show</title>
+<title>The Dog &amp; Pony Show</title>
 </programme>
 <programme start="20260714010000 -0600" stop="20260714011200 -0600" channel="discovery_kids_chile">
-<title>The Dog & Pony Show</title>
+<title>The Dog &amp; Pony Show</title>
 </programme>
 <programme start="20260714011200 -0600" stop="20260714012400 -0600" channel="discovery_kids_chile">
 <title>Ba da Bean</title>
@@ -34042,7 +34042,7 @@
 <title>100% Lobo La leyenda del anillo lunar</title>
 </programme>
 <programme start="20260714015800 -0600" stop="20260714020000 -0600" channel="discovery_kids_chile">
-<title>Luna's Show</title>
+<title>Luna&apos;s Show</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714000200 -0600" channel="discovery_kids_latam">
 <title>Jorge, el curioso Jorge hace una pizza / ¡Mariquitas!</title>
@@ -34075,7 +34075,7 @@
 <title>100% Lobo La leyenda del anillo lunar El báculo en la piedra</title>
 </programme>
 <programme start="20260714015800 -0600" stop="20260714020000 -0600" channel="discovery_kids_latam">
-<title>Luna's Show Visión doble</title>
+<title>Luna&apos;s Show Visión doble</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714001300 -0600" channel="discovery_kids_mx">
 <title>Aprendemos juntos 2030 Kids T</title>
@@ -34120,7 +34120,7 @@
 <title>ADN mecánico Temporada 2 Más de lo que se ve</title>
 </programme>
 <programme start="20260714015000 -0600" stop="20260714020000 -0600" channel="discovery_turbo_latam">
-<title>Overhaulin' Temporada 10 El mejor Corvette</title>
+<title>Overhaulin&apos; Temporada 10 El mejor Corvette</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714001200 -0600" channel="discovery_world_lat">
 <title>Pantano Se vende Casa pantanosa</title>
@@ -34186,7 +34186,7 @@
 <title>Miraculous Las aventuras de Ladybug</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714000500 -0600" channel="disney_junior_espa_a">
-<title>Marvel's Iron Man and His Awesome Friends</title>
+<title>Marvel&apos;s Iron Man and His Awesome Friends</title>
 </programme>
 <programme start="20260714000500 -0600" stop="20260714003000 -0600" channel="disney_junior_espa_a">
 <title>Marvel conoce a Spidey y su superequipo</title>
@@ -35221,7 +35221,7 @@
 <title>Super bowl Classics</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714001000 -0600" channel="nhk_world">
-<title>News & Weather</title>
+<title>News &amp; Weather</title>
 </programme>
 <programme start="20260714001000 -0600" stop="20260714002500 -0600" channel="nhk_world">
 <title>Health for today</title>
@@ -35434,7 +35434,7 @@
 <title>TG1</title>
 </programme>
 <programme start="20260714003000 -0600" stop="20260714020000 -0600" channel="rai_international">
-<title>Unomattina (all'interno TG)</title>
+<title>Unomattina (all&apos;interno TG)</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714013000 -0600" channel="rcn_colombia">
 <title>Tormenta de amor</title>
@@ -35467,7 +35467,7 @@
 <title>Los pies mágicos de Franny</title>
 </programme>
 <programme start="20260714000700 -0600" stop="20260714001900 -0600" channel="semillitas">
-<title>Dumper & Skoop</title>
+<title>Dumper &amp; Skoop</title>
 </programme>
 <programme start="20260714001900 -0600" stop="20260714002200 -0600" channel="semillitas">
 <title>Quiz Time</title>
@@ -35485,7 +35485,7 @@
 <title>Bob, el constructor</title>
 </programme>
 <programme start="20260714010000 -0600" stop="20260714011400 -0600" channel="semillitas">
-<title>Franklin & Friend</title>
+<title>Franklin &amp; Friend</title>
 </programme>
 <programme start="20260714011400 -0600" stop="20260714012600 -0600" channel="semillitas">
 <title>Tickety Toc + Specials</title>
@@ -35611,7 +35611,7 @@
 <title>The Kid</title>
 </programme>
 <programme start="20260714015700 -0600" stop="20260714020000 -0600" channel="star_channel_argentina">
-<title>Castle Temporada 7 Hollander's Woods</title>
+<title>Castle Temporada 7 Hollander&apos;s Woods</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714013100 -0600" channel="star_channel_centro">
 <title>La hermandad secreta</title>
@@ -35647,7 +35647,7 @@
 <title>La navidad de una adicta a los zapatos</title>
 </programme>
 <programme start="20260714011000 -0600" stop="20260714020000 -0600" channel="studio_universal_m_xico">
-<title>Debbie Macomber's Joyful Mrs. Miracle</title>
+<title>Debbie Macomber&apos;s Joyful Mrs. Miracle</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714001000 -0600" channel="studio_universal_panregional">
 <title>La navidad de una adicta a los zapatos</title>
@@ -36043,7 +36043,7 @@
 <title>Mais Você</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714003900 -0600" channel="tv5monde">
-<title>C dans l'air</title>
+<title>C dans l&apos;air</title>
 </programme>
 <programme start="20260714003900 -0600" stop="20260714010700 -0600" channel="tv5monde">
 <title>En terre animale</title>
@@ -36091,10 +36091,10 @@
 <title>Research unit</title>
 </programme>
 <programme start="20260714000000 -0600" stop="20260714000200 -0600" channel="ultra_docu">
-<title>999: What's Your Emergency?</title>
+<title>999: What&apos;s Your Emergency?</title>
 </programme>
 <programme start="20260714000200 -0600" stop="20260714004800 -0600" channel="ultra_docu">
-<title>999: What's Your Emergency?</title>
+<title>999: What&apos;s Your Emergency?</title>
 </programme>
 <programme start="20260714004800 -0600" stop="20260714020000 -0600" channel="ultra_docu">
 <title>Violencia Privada</title>
@@ -37000,7 +37000,7 @@
 <title>Sabores de campo</title>
 </programme>
 <programme start="20260714023000 -0600" stop="20260714030000 -0600" channel="agrotendencia_tv">
-<title>America's Heartland</title>
+<title>America&apos;s Heartland</title>
 </programme>
 <programme start="20260714030000 -0600" stop="20260714033000 -0600" channel="agrotendencia_tv">
 <title>La Finca de Hoy</title>
@@ -37147,7 +37147,7 @@
 <title>Aguila roja</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714021000 -0600" channel="axn_andes">
-<title>Hawaii Five-0 Kame'e (The Hero)</title>
+<title>Hawaii Five-0 Kame&apos;e (The Hero)</title>
 </programme>
 <programme start="20260714021000 -0600" stop="20260714030500 -0600" channel="axn_andes">
 <title>Hawaii Five-0 Mea Makamae (Treasure)</title>
@@ -37243,13 +37243,13 @@
 <title>Jugadors de llegenda</title>
 </programme>
 <programme start="20260714030000 -0600" stop="20260714031500 -0600" channel="bar_a_tv">
-<title>600"</title>
+<title>600&quot;</title>
 </programme>
 <programme start="20260714031500 -0600" stop="20260714034500 -0600" channel="bar_a_tv">
 <title>Aquí Palau</title>
 </programme>
 <programme start="20260714034500 -0600" stop="20260714040000 -0600" channel="bar_a_tv">
-<title>600"</title>
+<title>600&quot;</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714023000 -0600" channel="bbc_news_international">
 <title>BBC News</title>
@@ -37360,7 +37360,7 @@
 <title>El mundo de Craig Adventures in Baby Casino</title>
 </programme>
 <programme start="20260714032000 -0600" stop="20260714033000 -0600" channel="cartoon_network_atl_ntico_norte">
-<title>El mundo de Craig Lost & Found</title>
+<title>El mundo de Craig Lost &amp; Found</title>
 </programme>
 <programme start="20260714033000 -0600" stop="20260714034000 -0600" channel="cartoon_network_atl_ntico_norte">
 <title>El mundo de Craig Ropa dominguera</title>
@@ -37804,7 +37804,7 @@
 <title>Historia de un gran amor</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714020200 -0600" channel="dw">
-<title>America's Journey to Freedom</title>
+<title>America&apos;s Journey to Freedom</title>
 </programme>
 <programme start="20260714020200 -0600" stop="20260714023000 -0600" channel="dw">
 <title>Global Us</title>
@@ -37882,7 +37882,7 @@
 <title>Historias de peso con el Dr. Now Episodio 3</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714020900 -0600" channel="discovery_kids_chile">
-<title>Luna's Show</title>
+<title>Luna&apos;s Show</title>
 </programme>
 <programme start="20260714020900 -0600" stop="20260714022100 -0600" channel="discovery_kids_chile">
 <title>Defensores Petronix</title>
@@ -37903,7 +37903,7 @@
 <title>¡Agente binky al rescate!</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714020900 -0600" channel="discovery_kids_latam">
-<title>Luna's Show Visión doble</title>
+<title>Luna&apos;s Show Visión doble</title>
 </programme>
 <programme start="20260714020900 -0600" stop="20260714022100 -0600" channel="discovery_kids_latam">
 <title>Defensores Petronix Misión rescate conejo</title>
@@ -37948,7 +37948,7 @@
 <title>Pesca mortal Sin dormir hasta rescatarlo</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714024000 -0600" channel="discovery_turbo_latam">
-<title>Overhaulin' Temporada 10 El mejor Corvette</title>
+<title>Overhaulin&apos; Temporada 10 El mejor Corvette</title>
 </programme>
 <programme start="20260714024000 -0600" stop="20260714032600 -0600" channel="discovery_turbo_latam">
 <title>Texas Metal Temporada 7 Cambio radical de una Ford 1949</title>
@@ -38161,10 +38161,10 @@
 <title>NCIS: Nueva Orleans</title>
 </programme>
 <programme start="20260714023500 -0600" stop="20260714033500 -0600" channel="energy">
-<title>NCIS: Hawai'i</title>
+<title>NCIS: Hawai&apos;i</title>
 </programme>
 <programme start="20260714033500 -0600" stop="20260714040000 -0600" channel="energy">
-<title>NCIS: Hawai'i</title>
+<title>NCIS: Hawai&apos;i</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714023000 -0600" channel="tbn">
 <title>Especial infantil</title>
@@ -38452,7 +38452,7 @@
 <title>Fox News @ Night</title>
 </programme>
 <programme start="20260714030000 -0600" stop="20260714040000 -0600" channel="fox_news">
-<title>FOX & Friends First</title>
+<title>FOX &amp; Friends First</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714040000 -0600" channel="fox_sports_cono_norte">
 <title>Major Arena Soccer League</title>
@@ -39052,7 +39052,7 @@
 <title>News</title>
 </programme>
 <programme start="20260714031000 -0600" stop="20260714032000 -0600" channel="nhk_world">
-<title>Let's Enjoy English and Meets the World</title>
+<title>Let&apos;s Enjoy English and Meets the World</title>
 </programme>
 <programme start="20260714032000 -0600" stop="20260714033500 -0600" channel="nhk_world">
 <title>Peek-a-boo</title>
@@ -39148,10 +39148,10 @@
 <title>Los Marsupilamis</title>
 </programme>
 <programme start="20260714033500 -0600" stop="20260714035500 -0600" channel="nickelodeon_m_xico">
-<title>Best & Bester Cada Forma una</title>
+<title>Best &amp; Bester Cada Forma una</title>
 </programme>
 <programme start="20260714035500 -0600" stop="20260714040000 -0600" channel="nickelodeon_m_xico">
-<title>Best & Bester Cada Forma una</title>
+<title>Best &amp; Bester Cada Forma una</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714040000 -0600" channel="nickmusic">
 <title>Canal no disponible</title>
@@ -39262,7 +39262,7 @@
 <title>KUMHO FIA TCR World Tour</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714030000 -0600" channel="rai_international">
-<title>Unomattina (all'interno TG)</title>
+<title>Unomattina (all&apos;interno TG)</title>
 </programme>
 <programme start="20260714030000 -0600" stop="20260714034500 -0600" channel="rai_international">
 <title>Relazione al Parlamento</title>
@@ -39373,13 +39373,13 @@
 <title>Infiltrados</title>
 </programme>
 <programme start="20260714023000 -0600" stop="20260714033000 -0600" channel="snt">
-<title>Kay'uhape</title>
+<title>Kay&apos;uhape</title>
 </programme>
 <programme start="20260714033000 -0600" stop="20260714040000 -0600" channel="snt">
 <title>La mañana de cada día</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714030000 -0600" channel="sony_chile">
-<title>Grey's Anatomy</title>
+<title>Grey&apos;s Anatomy</title>
 </programme>
 <programme start="20260714030000 -0600" stop="20260714040000 -0600" channel="sony_chile">
 <title>The Good Doctor</title>
@@ -39394,7 +39394,7 @@
 <title>The Nanny Temporada 3 Episodio 8</title>
 </programme>
 <programme start="20260714033000 -0600" stop="20260714040000 -0600" channel="sony_m_xico">
-<title>Grey's Anatomy Temporada 21 Episodio 5</title>
+<title>Grey&apos;s Anatomy Temporada 21 Episodio 5</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714022500 -0600" channel="sony_centro">
 <title>My wife and kids Anniversary - Part 2</title>
@@ -39403,7 +39403,7 @@
 <title>Vecinos Conserjerito inglés</title>
 </programme>
 <programme start="20260714030000 -0600" stop="20260714040000 -0600" channel="sony_centro">
-<title>Grey's Anatomy Between Two Lungs</title>
+<title>Grey&apos;s Anatomy Between Two Lungs</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714021500 -0600" channel="sony_movies_latam">
 <title>Jesse Stone: Benefit of the Doubt</title>
@@ -39454,10 +39454,10 @@
 <title>TNT Buzz</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714024000 -0600" channel="star_channel_argentina">
-<title>Castle Temporada 7 Hollander's Woods</title>
+<title>Castle Temporada 7 Hollander&apos;s Woods</title>
 </programme>
 <programme start="20260714024000 -0600" stop="20260714040000 -0600" channel="star_channel_argentina">
-<title>Foyle's War Temporada 8 High Castle</title>
+<title>Foyle&apos;s War Temporada 8 High Castle</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714030600 -0600" channel="star_channel_centro">
 <title>The Kid</title>
@@ -39475,7 +39475,7 @@
 <title>The Kid</title>
 </programme>
 <programme start="20260714034500 -0600" stop="20260714040000 -0600" channel="star_channel_m_xico">
-<title>Castle Temporada 7 Hollander's Woods</title>
+<title>Castle Temporada 7 Hollander&apos;s Woods</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714022500 -0600" channel="star_tve">
 <title>Acacias 38</title>
@@ -39496,7 +39496,7 @@
 <title>Outcast</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714025000 -0600" channel="studio_universal_m_xico">
-<title>Debbie Macomber's Joyful Mrs. Miracle</title>
+<title>Debbie Macomber&apos;s Joyful Mrs. Miracle</title>
 </programme>
 <programme start="20260714025000 -0600" stop="20260714040000 -0600" channel="studio_universal_m_xico">
 <title>La navidad más dulce</title>
@@ -39856,13 +39856,13 @@
 <title>CSI Temporada 14 Episodio 14</title>
 </programme>
 <programme start="20260714021200 -0600" stop="20260714025600 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 9 Episodio 1</title>
+<title>Law &amp; Order: SVU Temporada 9 Episodio 1</title>
 </programme>
 <programme start="20260714025600 -0600" stop="20260714034000 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 9 Episodio 2</title>
+<title>Law &amp; Order: SVU Temporada 9 Episodio 2</title>
 </programme>
 <programme start="20260714034000 -0600" stop="20260714040000 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 4 Episodio 7</title>
+<title>Law &amp; Order: SVU Temporada 4 Episodio 7</title>
 </programme>
 <programme start="20260714020000 -0600" stop="20260714022200 -0600" channel="tooncast">
 <title>Thundercats</title>
@@ -40033,10 +40033,10 @@
 <title>Motu Patlu</title>
 </programme>
 <programme start="20260714021000 -0600" stop="20260714023500 -0600" channel="ultra_kidz">
-<title>Super Supremes: Nursery Rhymes & Baby Songs</title>
+<title>Super Supremes: Nursery Rhymes &amp; Baby Songs</title>
 </programme>
 <programme start="20260714023500 -0600" stop="20260714030000 -0600" channel="ultra_kidz">
-<title>Super Supremes: Nursery Rhymes & Baby Songs</title>
+<title>Super Supremes: Nursery Rhymes &amp; Baby Songs</title>
 </programme>
 <programme start="20260714030000 -0600" stop="20260714032100 -0600" channel="ultra_kidz">
 <title>Smarty-Pants Eric</title>
@@ -40687,7 +40687,7 @@
 <title>Fin de transmisión</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714060000 -0600" channel="13_de_nicaragua">
-<title>90' teras</title>
+<title>90&apos; teras</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714050000 -0600" channel="13_de_puerto_rico">
 <title>Misa Diaria Local</title>
@@ -41107,7 +41107,7 @@
 <title>ATV noticias edición matinal</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714050000 -0600" channel="axn_andes">
-<title>Hawaii Five-0 Hana 'a' a Makehewa (Desperate Measures)</title>
+<title>Hawaii Five-0 Hana &apos;a&apos; a Makehewa (Desperate Measures)</title>
 </programme>
 <programme start="20260714050000 -0600" stop="20260714060000 -0600" channel="axn_andes">
 <title>Hawaii Five-0 Ke Kinohi (The Beginning)</title>
@@ -41188,7 +41188,7 @@
 <title>Barça Notícies</title>
 </programme>
 <programme start="20260714040500 -0600" stop="20260714041500 -0600" channel="bar_a_tv">
-<title>600"</title>
+<title>600&quot;</title>
 </programme>
 <programme start="20260714041500 -0600" stop="20260714050000 -0600" channel="bar_a_tv">
 <title>Jugadors de llegenda</title>
@@ -41401,7 +41401,7 @@
 <title>Hey Duggee</title>
 </programme>
 <programme start="20260714053000 -0600" stop="20260714060000 -0600" channel="cartoonito_m_xico">
-<title>Bea's block</title>
+<title>Bea&apos;s block</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714040300 -0600" channel="cartoonito_panregional">
 <title>Morphle 3D Morphle Saves the (Birth)day</title>
@@ -41428,7 +41428,7 @@
 <title>Morphle 3D The Time Travelling Bandits</title>
 </programme>
 <programme start="20260714043100 -0600" stop="20260714043400 -0600" channel="cartoonito_panregional">
-<title>Morphle 3D The "Be Quiet" Game</title>
+<title>Morphle 3D The &quot;Be Quiet&quot; Game</title>
 </programme>
 <programme start="20260714043400 -0600" stop="20260714043800 -0600" channel="cartoonito_panregional">
 <title>Morphle 3D Superhero Mila Chase Robofreeze</title>
@@ -41446,7 +41446,7 @@
 <title>Morphle 3D Frankenmorphle</title>
 </programme>
 <programme start="20260714045200 -0600" stop="20260714050000 -0600" channel="cartoonito_panregional">
-<title>Morphle 3D Orphle's Christmas Shenanigans</title>
+<title>Morphle 3D Orphle&apos;s Christmas Shenanigans</title>
 </programme>
 <programme start="20260714050000 -0600" stop="20260714050600 -0600" channel="cartoonito_panregional">
 <title>Hey, Duggee La insignia del arcoíris</title>
@@ -41497,7 +41497,7 @@
 <title>Mi mascota mágica Morphle Temporada 2 The Time Travelling Bandits</title>
 </programme>
 <programme start="20260714043100 -0600" stop="20260714043400 -0600" channel="cartoonito_sur">
-<title>Mi mascota mágica Morphle Temporada 2 The 'Be Quiet' Game</title>
+<title>Mi mascota mágica Morphle Temporada 2 The &apos;Be Quiet&apos; Game</title>
 </programme>
 <programme start="20260714043400 -0600" stop="20260714043800 -0600" channel="cartoonito_sur">
 <title>Mi mascota mágica Morphle Temporada 1 Superhero Mila Chase Robofreeze</title>
@@ -41515,7 +41515,7 @@
 <title>Mi mascota mágica Morphle Temporada 2 Frankenmorphle</title>
 </programme>
 <programme start="20260714045200 -0600" stop="20260714050000 -0600" channel="cartoonito_sur">
-<title>Mi mascota mágica Morphle Orphle's Christmas Shenanigans</title>
+<title>Mi mascota mágica Morphle Orphle&apos;s Christmas Shenanigans</title>
 </programme>
 <programme start="20260714050000 -0600" stop="20260714050700 -0600" channel="cartoonito_sur">
 <title>Hey Duggee Temporada 4 The Rainbow Badge</title>
@@ -41590,7 +41590,7 @@
 <title>Bad Ass</title>
 </programme>
 <programme start="20260714040600 -0600" stop="20260714051700 -0600" channel="cinecanal_m_xico">
-<title>Henry & Klauss Maestros</title>
+<title>Henry &amp; Klauss Maestros</title>
 </programme>
 <programme start="20260714051700 -0600" stop="20260714060000 -0600" channel="cinecanal_m_xico">
 <title>La gran aventura de Los Lunnis</title>
@@ -41956,10 +41956,10 @@
 <title>Mini beat power rockers</title>
 </programme>
 <programme start="20260714052500 -0600" stop="20260714053700 -0600" channel="discovery_kids_chile">
-<title>Luna's Show</title>
+<title>Luna&apos;s Show</title>
 </programme>
 <programme start="20260714053700 -0600" stop="20260714055200 -0600" channel="discovery_kids_chile">
-<title>Luna's Show</title>
+<title>Luna&apos;s Show</title>
 </programme>
 <programme start="20260714055200 -0600" stop="20260714060000 -0600" channel="discovery_kids_chile">
 <title>Jorge, el curioso</title>
@@ -41977,10 +41977,10 @@
 <title>Mini beat power rockers La mudanza de Wat / El twist de los piojos / El bebé más hermoso del mundo</title>
 </programme>
 <programme start="20260714052500 -0600" stop="20260714053700 -0600" channel="discovery_kids_latam">
-<title>Luna's Show Abejas, frutas y flores</title>
+<title>Luna&apos;s Show Abejas, frutas y flores</title>
 </programme>
 <programme start="20260714053700 -0600" stop="20260714055200 -0600" channel="discovery_kids_latam">
-<title>Luna's Show Viajar en un instante</title>
+<title>Luna&apos;s Show Viajar en un instante</title>
 </programme>
 <programme start="20260714055200 -0600" stop="20260714060000 -0600" channel="discovery_kids_latam">
 <title>Jorge, el curioso Un cerdo, un cachorro y un mono / Canción de cuna para una orquídea</title>
@@ -42274,7 +42274,7 @@
 <title>Los imperdibles Buenos Aires Episodio 4</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714043000 -0600" channel="energy">
-<title>NCIS: Hawai'i</title>
+<title>NCIS: Hawai&apos;i</title>
 </programme>
 <programme start="20260714043000 -0600" stop="20260714053500 -0600" channel="energy">
 <title>NCIS: Los Ángeles</title>
@@ -42562,7 +42562,7 @@
 <title>Total Sports 360 NFL</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714060000 -0600" channel="fox_news">
-<title>FOX & Friends</title>
+<title>FOX &amp; Friends</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714043000 -0600" channel="fox_sports_cono_norte">
 <title>Major Arena Soccer League</title>
@@ -43063,7 +43063,7 @@
 <title>Pillados: Infieles Temporada 3 Episodio 24</title>
 </programme>
 <programme start="20260714043000 -0600" stop="20260714051100 -0600" channel="mtv_espa_a">
-<title>Love & Hip Hop Atlanta Temporada 11 Danos tu Gracia</title>
+<title>Love &amp; Hip Hop Atlanta Temporada 11 Danos tu Gracia</title>
 </programme>
 <programme start="20260714051100 -0600" stop="20260714055200 -0600" channel="mtv_espa_a">
 <title>10 parejas 10 UK Temporada 1 Lights Out</title>
@@ -43141,7 +43141,7 @@
 <title>NHK news 7</title>
 </programme>
 <programme start="20260714043000 -0600" stop="20260714045700 -0600" channel="nhk_world">
-<title>Today's close-up</title>
+<title>Today&apos;s close-up</title>
 </programme>
 <programme start="20260714045700 -0600" stop="20260714054300 -0600" channel="nhk_world">
 <title>Song Concert</title>
@@ -43174,7 +43174,7 @@
 <title>Dora T2-E12 Duende lengua enredada / Chompy y la flor de nube</title>
 </programme>
 <programme start="20260714040500 -0600" stop="20260714042500 -0600" channel="nick_jr_latinoam_rica">
-<title>Paw Patrol patrulla de cachorros T12-E5 Search & Rescue ¡Los cachorros salvan el picnic compartido!</title>
+<title>Paw Patrol patrulla de cachorros T12-E5 Search &amp; Rescue ¡Los cachorros salvan el picnic compartido!</title>
 </programme>
 <programme start="20260714042500 -0600" stop="20260714044000 -0600" channel="nick_jr_latinoam_rica">
 <title>Paw Patrol patrulla de cachorros T9-E19 ¡Los Aqua cachorros salvan el Whale Patroller!</title>
@@ -43225,7 +43225,7 @@
 <title>Bob Esponja</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714042000 -0600" channel="nickelodeon_m_xico">
-<title>Best & Bester Cada Forma una</title>
+<title>Best &amp; Bester Cada Forma una</title>
 </programme>
 <programme start="20260714042000 -0600" stop="20260714044000 -0600" channel="nickelodeon_m_xico">
 <title>El Show de Patricio Estrella</title>
@@ -43351,7 +43351,7 @@
 <title>N Noticias</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714060000 -0600" channel="punto_2">
-<title>Pegao's en la mañana</title>
+<title>Pegao&apos;s en la mañana</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714043000 -0600" channel="px_sports">
 <title>KUMHO FIA TCR World Tour</title>
@@ -43447,7 +43447,7 @@
 <title>Los pies mágicos de Franny</title>
 </programme>
 <programme start="20260714055400 -0600" stop="20260714060000 -0600" channel="semillitas">
-<title>Dumper & Skoop</title>
+<title>Dumper &amp; Skoop</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714050000 -0600" channel="se_al_colombia">
 <title>Señal investigativa</title>
@@ -43510,13 +43510,13 @@
 <title>TeveCompras</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714042000 -0600" channel="sony_m_xico">
-<title>Grey's Anatomy Temporada 21 Episodio 5</title>
+<title>Grey&apos;s Anatomy Temporada 21 Episodio 5</title>
 </programme>
 <programme start="20260714042000 -0600" stop="20260714051000 -0600" channel="sony_m_xico">
-<title>Betty's call Temporada 6 Episodio 19</title>
+<title>Betty&apos;s call Temporada 6 Episodio 19</title>
 </programme>
 <programme start="20260714051000 -0600" stop="20260714060000 -0600" channel="sony_m_xico">
-<title>Betty's call Temporada 8 Episodio 22</title>
+<title>Betty&apos;s call Temporada 8 Episodio 22</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714050000 -0600" channel="sony_centro">
 <title>The Good Doctor Second Chances and Past Regrets</title>
@@ -43528,7 +43528,7 @@
 <title>Future Man Temporada 1 Prelude to an Apocalypse</title>
 </programme>
 <programme start="20260714043000 -0600" stop="20260714050000 -0600" channel="sony_movies_latam">
-<title>Indebted Everybody's Talking About Baby Boy Klein</title>
+<title>Indebted Everybody&apos;s Talking About Baby Boy Klein</title>
 </programme>
 <programme start="20260714050000 -0600" stop="20260714060000 -0600" channel="sony_movies_latam">
 <title>La última cazadora de dragones</title>
@@ -43570,7 +43570,7 @@
 <title>Castle Temporada 8 Episodio 7</title>
 </programme>
 <programme start="20260714055600 -0600" stop="20260714060000 -0600" channel="star_channel_argentina">
-<title>Castle Temporada 8 Mr. & Mrs. Castle</title>
+<title>Castle Temporada 8 Mr. &amp; Mrs. Castle</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714043200 -0600" channel="star_channel_centro">
 <title>Castle XY</title>
@@ -43579,10 +43579,10 @@
 <title>Sin rodeos</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714042900 -0600" channel="star_channel_m_xico">
-<title>Castle Temporada 7 Hollander's Woods</title>
+<title>Castle Temporada 7 Hollander&apos;s Woods</title>
 </programme>
 <programme start="20260714042900 -0600" stop="20260714051500 -0600" channel="star_channel_m_xico">
-<title>Foyle's War Temporada 8 High Castle</title>
+<title>Foyle&apos;s War Temporada 8 High Castle</title>
 </programme>
 <programme start="20260714051500 -0600" stop="20260714060000 -0600" channel="star_channel_m_xico">
 <title>Sin rodeos</title>
@@ -43912,13 +43912,13 @@
 <title>Quiéreme Siempre</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714042600 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 4 Episodio 7</title>
+<title>Law &amp; Order: SVU Temporada 4 Episodio 7</title>
 </programme>
 <programme start="20260714042600 -0600" stop="20260714050900 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 4 Episodio 8</title>
+<title>Law &amp; Order: SVU Temporada 4 Episodio 8</title>
 </programme>
 <programme start="20260714050900 -0600" stop="20260714060000 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 5 Episodio 5</title>
+<title>Law &amp; Order: SVU Temporada 5 Episodio 5</title>
 </programme>
 <programme start="20260714040000 -0600" stop="20260714041300 -0600" channel="tooncast">
 <title>Mansión foster para amigos imaginarios</title>
@@ -44683,10 +44683,10 @@
 <title>NCC</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714070000 -0600" channel="13_de_guatemala">
-<title>Planet's Funniest Animal</title>
+<title>Planet&apos;s Funniest Animal</title>
 </programme>
 <programme start="20260714070000 -0600" stop="20260714080000 -0600" channel="13_de_guatemala">
-<title>America's Funniest Home Video</title>
+<title>America&apos;s Funniest Home Video</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714070000 -0600" channel="13_de_nicaragua">
 <title>Campo pagado</title>
@@ -45094,7 +45094,7 @@
 <title>Liga Mexicana de Beisbol Pericos de Puebla vs. Piratas de Campeche</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714063000 -0600" channel="baby_tv_latam">
-<title>Charlie & los números</title>
+<title>Charlie &amp; los números</title>
 </programme>
 <programme start="20260714063000 -0600" stop="20260714070000 -0600" channel="baby_tv_latam">
 <title>La hora del arte, la actividad y la música</title>
@@ -45106,7 +45106,7 @@
 <title>El patio de la imaginación</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714063000 -0600" channel="babyfirst_tv">
-<title>Canciones & Rimas</title>
+<title>Canciones &amp; Rimas</title>
 </programme>
 <programme start="20260714063000 -0600" stop="20260714070000 -0600" channel="babyfirst_tv">
 <title>La hora del arte, la actividad y la música</title>
@@ -45133,7 +45133,7 @@
 <title>Jugadors de llegenda</title>
 </programme>
 <programme start="20260714064500 -0600" stop="20260714070000 -0600" channel="bar_a_tv">
-<title>600"</title>
+<title>600&quot;</title>
 </programme>
 <programme start="20260714070000 -0600" stop="20260714071500 -0600" channel="bar_a_tv">
 <title>Barça Notícies</title>
@@ -45265,7 +45265,7 @@
 <title>El maravillosamente extraño mundo de Gumball Temporada 1 Episodio 5</title>
 </programme>
 <programme start="20260714074500 -0600" stop="20260714080000 -0600" channel="cartoon_network_m_xico">
-<title>Regular Show: The Lost Tapes Temporada 1 Skips' Luau</title>
+<title>Regular Show: The Lost Tapes Temporada 1 Skips&apos; Luau</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714060200 -0600" channel="cartoon_network_pac_fico">
 <title>El Increíble Mundo de Gumball</title>
@@ -45766,10 +45766,10 @@
 <title>Doki Las manchas misteriosas; Tormenta espacial</title>
 </programme>
 <programme start="20260714073000 -0600" stop="20260714074500 -0600" channel="discovery_familia">
-<title>Bubble's Hotel A Volar</title>
+<title>Bubble&apos;s Hotel A Volar</title>
 </programme>
 <programme start="20260714074500 -0600" stop="20260714080000 -0600" channel="discovery_familia">
-<title>Bubble's Hotel Salva el día</title>
+<title>Bubble&apos;s Hotel Salva el día</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714065900 -0600" channel="discovery_home_health_colombia">
 <title>Todo en 90 días antes del viaje Prepárense para la llegada</title>
@@ -45793,7 +45793,7 @@
 <title>Jorge, el curioso</title>
 </programme>
 <programme start="20260714061700 -0600" stop="20260714063200 -0600" channel="discovery_kids_chile">
-<title>Bubble's Hotel</title>
+<title>Bubble&apos;s Hotel</title>
 </programme>
 <programme start="20260714063200 -0600" stop="20260714064400 -0600" channel="discovery_kids_chile">
 <title>Super Wish</title>
@@ -45805,7 +45805,7 @@
 <title>Polly Pocket</title>
 </programme>
 <programme start="20260714071100 -0600" stop="20260714072200 -0600" channel="discovery_kids_chile">
-<title>Builder Brothers' Dream Factory</title>
+<title>Builder Brothers&apos; Dream Factory</title>
 </programme>
 <programme start="20260714072200 -0600" stop="20260714074500 -0600" channel="discovery_kids_chile">
 <title>Peppa Pig</title>
@@ -45817,7 +45817,7 @@
 <title>Jorge, el curioso Un cerdo, un cachorro y un mono / Canción de cuna para una orquídea</title>
 </programme>
 <programme start="20260714061700 -0600" stop="20260714063200 -0600" channel="discovery_kids_latam">
-<title>Bubble's Hotel Vuela, vuela lejos</title>
+<title>Bubble&apos;s Hotel Vuela, vuela lejos</title>
 </programme>
 <programme start="20260714063200 -0600" stop="20260714064400 -0600" channel="discovery_kids_latam">
 <title>Super Wish No lo sueltes</title>
@@ -45898,7 +45898,7 @@
 <title>Amphibia El viaje de Anne llega a su fin</title>
 </programme>
 <programme start="20260714070000 -0600" stop="20260714073000 -0600" channel="disney_channel_centro">
-<title>Hamster & Gretel Un problema gigantesco / El gallo de la opereta de la escuela primaria</title>
+<title>Hamster &amp; Gretel Un problema gigantesco / El gallo de la opereta de la escuela primaria</title>
 </programme>
 <programme start="20260714073000 -0600" stop="20260714080000 -0600" channel="disney_channel_centro">
 <title>El fantasma y Molly McGee Noche de juegos / La malefactora</title>
@@ -45925,7 +45925,7 @@
 <title>Amphibia</title>
 </programme>
 <programme start="20260714070200 -0600" stop="20260714073000 -0600" channel="disney_channel_sur">
-<title>Hamster & Gretel</title>
+<title>Hamster &amp; Gretel</title>
 </programme>
 <programme start="20260714073000 -0600" stop="20260714075900 -0600" channel="disney_channel_sur">
 <title>El fantasma y Molly McGee</title>
@@ -46366,10 +46366,10 @@
 <title>Punto final</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714070000 -0600" channel="fox_news">
-<title>FOX & Friends</title>
+<title>FOX &amp; Friends</title>
 </programme>
 <programme start="20260714070000 -0600" stop="20260714080000 -0600" channel="fox_news">
-<title>America's Newsroom</title>
+<title>America&apos;s Newsroom</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714070000 -0600" channel="fox_sports_cono_norte">
 <title>Central Fox</title>
@@ -46696,7 +46696,7 @@
 <title>El mundo al vuelo</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714063000 -0600" channel="inti_network">
-<title>Vive verde & rebelde</title>
+<title>Vive verde &amp; rebelde</title>
 </programme>
 <programme start="20260714063000 -0600" stop="20260714070000 -0600" channel="inti_network">
 <title>Crecer sin límites</title>
@@ -46855,7 +46855,7 @@
 <title>Peques</title>
 </programme>
 <programme start="20260714061400 -0600" stop="20260714072700 -0600" channel="m_comedia">
-<title>Saturday night live Temporada 51 Josh O'Connor; Lily Allen</title>
+<title>Saturday night live Temporada 51 Josh O&apos;Connor; Lily Allen</title>
 </programme>
 <programme start="20260714072700 -0600" stop="20260714080000 -0600" channel="m_comedia">
 <title>Unplugging</title>
@@ -47206,7 +47206,7 @@
 <title>Rebeldes en Canadá</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714060600 -0600" channel="semillitas">
-<title>Dumper & Skoop</title>
+<title>Dumper &amp; Skoop</title>
 </programme>
 <programme start="20260714060600 -0600" stop="20260714060900 -0600" channel="semillitas">
 <title>Quiz Time</title>
@@ -47224,7 +47224,7 @@
 <title>Bob, el constructor</title>
 </programme>
 <programme start="20260714064800 -0600" stop="20260714070100 -0600" channel="semillitas">
-<title>Franklin & Friend</title>
+<title>Franklin &amp; Friend</title>
 </programme>
 <programme start="20260714070100 -0600" stop="20260714072600 -0600" channel="semillitas">
 <title>Tickety Toc + Specials</title>
@@ -47245,7 +47245,7 @@
 <title>Thomas and Friend</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714060700 -0600" channel="se_al_colombia">
-<title>Mati & Rocco</title>
+<title>Mati &amp; Rocco</title>
 </programme>
 <programme start="20260714060700 -0600" stop="20260714061400 -0600" channel="se_al_colombia">
 <title>Cuentazos con efectazos</title>
@@ -47302,7 +47302,7 @@
 <title>Swiss Nature Labs</title>
 </programme>
 <programme start="20260714070000 -0600" stop="20260714080000 -0600" channel="sony_chile">
-<title>Betty's call</title>
+<title>Betty&apos;s call</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714065000 -0600" channel="sony_m_xico">
 <title>The Good Doctor Temporada 6 Episodio 15</title>
@@ -47317,7 +47317,7 @@
 <title>The Town Doctor</title>
 </programme>
 <programme start="20260714070000 -0600" stop="20260714080000 -0600" channel="sony_centro">
-<title>Betty's call Eiskalt erwischt</title>
+<title>Betty&apos;s call Eiskalt erwischt</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714065500 -0600" channel="sony_movies_latam">
 <title>La última cazadora de dragones</title>
@@ -47353,7 +47353,7 @@
 <title>2012</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714064700 -0600" channel="star_channel_argentina">
-<title>Castle Temporada 8 Mr. & Mrs. Castle</title>
+<title>Castle Temporada 8 Mr. &amp; Mrs. Castle</title>
 </programme>
 <programme start="20260714064700 -0600" stop="20260714080000 -0600" channel="star_channel_argentina">
 <title>Forever my girl</title>
@@ -47701,13 +47701,13 @@
 <title>Sueños de libertad</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714062200 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 5 Episodio 7</title>
+<title>Law &amp; Order: SVU Temporada 5 Episodio 7</title>
 </programme>
 <programme start="20260714062200 -0600" stop="20260714071800 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 5 Episodio 8</title>
+<title>Law &amp; Order: SVU Temporada 5 Episodio 8</title>
 </programme>
 <programme start="20260714071800 -0600" stop="20260714080000 -0600" channel="tnt_series_lat">
-<title>Law & Order: SVU Temporada 7 Episodio 9</title>
+<title>Law &amp; Order: SVU Temporada 7 Episodio 9</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714061100 -0600" channel="tooncast">
 <title>Mi compañero de Clase es un Mono</title>
@@ -47929,10 +47929,10 @@
 <title>Motu Patlu</title>
 </programme>
 <programme start="20260714072500 -0600" stop="20260714075100 -0600" channel="ultra_kidz">
-<title>Super Supremes: Nursery Rhymes & Baby Songs</title>
+<title>Super Supremes: Nursery Rhymes &amp; Baby Songs</title>
 </programme>
 <programme start="20260714075100 -0600" stop="20260714080000 -0600" channel="ultra_kidz">
-<title>Super Supremes: Nursery Rhymes & Baby Songs</title>
+<title>Super Supremes: Nursery Rhymes &amp; Baby Songs</title>
 </programme>
 <programme start="20260714060000 -0600" stop="20260714062800 -0600" channel="ultra_tainment">
 <title>Se aceptan milagros</title>
