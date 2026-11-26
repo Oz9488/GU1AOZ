@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Fox+ Mexico manual">
+  <channel id="foxplus.mx">
+    <display-name lang="es">Fox+ México</display-name>
+  </channel>
+
+  <!-- Inicio real de Referentes desconocido: se asumió 16:00, ajústalo -->
+  <programme start="20261126160000 -0600" stop="20261126170000 -0600" channel="foxplus.mx">
+    <title lang="es">Referentes</title>
+    <desc lang="es">Análisis profundo de fútbol, tocando temas tácticos de cancha con la experiencia de exfutbolistas acompañados por expertos en fútbol europeo, con entrevistas a jugadores, DT's y directivos.</desc>
+  </programme>
+
+  <programme start="20261126170000 -0600" stop="20261126180000 -0600" channel="foxplus.mx">
+    <title lang="es">Pachuca vs. Guadalajara</title>
+  </programme>
+  <programme start="20261126180000 -0600" stop="20261126190000 -0600" channel="foxplus.mx">
+    <title lang="es">Pachuca vs. Guadalajara</title>
+  </programme>
+  <programme start="20261126190000 -0600" stop="20261126200000 -0600" channel="foxplus.mx">
+    <title lang="es">Pachuca vs. Guadalajara</title>
+  </programme>
+  <programme start="20261126200000 -0600" stop="20261126210000 -0600" channel="foxplus.mx">
+    <title lang="es">León vs. Cruz Azul</title>
+  </programme>
+  <programme start="20261126210000 -0600" stop="20261126220000 -0600" channel="foxplus.mx">
+    <title lang="es">León vs. Cruz Azul</title>
+  </programme>
+  <programme start="20261126220000 -0600" stop="20261126230000 -0600" channel="foxplus.mx">
+    <title lang="es">Cuadro titular</title>
+    <desc lang="es">Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
+  </programme>
+  <programme start="20261126230000 -0600" stop="20261127000000 -0600" channel="foxplus.mx">
+    <title lang="es">Por confirmar</title>
+  </programme>
+</tv>
